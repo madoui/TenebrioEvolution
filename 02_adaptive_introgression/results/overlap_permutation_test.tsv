@@ -1,0 +1,2 @@
+n_introgression_regions	n_farm_only_selection_loci	observed_introgression_regions_overlapping	observed_selection_loci_overlapping	null_mean_introgression_regions_overlapping	fold_enrichment	empirical_p_enrichment	n_permutations	seed
+163	507	68	96	32.9359	2.0646164215946734	9.999000099990002e-05	10000	20260907

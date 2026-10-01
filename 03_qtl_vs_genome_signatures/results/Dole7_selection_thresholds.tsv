@@ -1,0 +1,19 @@
+analysis_type	cutoff	cutoff_label	population	lower_tail_threshold	n_callable_windows	n_low_tail_windows	comparison	recipient_population	upper_tail_threshold	n_valid_windows_all_coordinates	n_valid_lifted_windows	n_selected_lifted_windows
+D	0.1	10%	Dole7	-1.4973253762999998	22638.0	2264.0						
+D	0.1	10%	Wild Serbian	-1.224062259	27921.0	2793.0						
+D	0.05	5%	Dole7	-1.7950112409999999	22638.0	1132.0						
+D	0.05	5%	Wild Serbian	-1.557928405	27921.0	1397.0						
+D	0.01	1%	Dole7	-2.29654268312	22638.0	227.0						
+D	0.01	1%	Wild Serbian	-2.2031877378	27921.0	280.0						
+pi	0.1	10%	Dole7	0.0061519314	22498.0	2250.0						
+pi	0.1	10%	Wild Serbian	0.004883257	27100.0	2710.0						
+pi	0.05	5%	Dole7	0.00505648675	22498.0	1125.0						
+pi	0.05	5%	Wild Serbian	0.00371035775	27100.0	1355.0						
+pi	0.01	1%	Dole7	0.00336513318	22498.0	225.0						
+pi	0.01	1%	Wild Serbian	0.00153339003	27100.0	271.0						
+fDM	0.1	10%					France_Netherlands_vs_Belgium2	Dole7	0.8176928035636647	5167.0	5163.0	240.0
+fDM	0.05	5%					France_Netherlands_vs_Belgium2	Dole7	1.1304195699711999	5167.0	5163.0	108.0
+fDM	0.01	1%					France_Netherlands_vs_Belgium2	Dole7	3.9260130100045085	5167.0	5163.0	19.0
+fDM	0.1	10%					France_Netherlands_vs_Czechia	Dole7	0.8618513301074755	5167.0	5163.0	233.0
+fDM	0.05	5%					France_Netherlands_vs_Czechia	Dole7	1.3162361366812716	5167.0	5163.0	106.0
+fDM	0.01	1%					France_Netherlands_vs_Czechia	Dole7	5.329473583618788	5167.0	5163.0	20.0

@@ -1,0 +1,316 @@
+check	analysis_type	cutoff	Trait	value	expected	pass
+target within callable mask	D	0.1	ALL	0	0	True
+target within callable mask	D	0.05	ALL	0	0	True
+target within callable mask	D	0.01	ALL	0	0	True
+target within callable mask	pi	0.1	ALL	0	0	True
+target within callable mask	pi	0.05	ALL	0	0	True
+target within callable mask	pi	0.01	ALL	0	0	True
+target within callable mask	fDM	0.1	ALL	0	0	True
+target within callable mask	fDM	0.05	ALL	0	0	True
+target within callable mask	fDM	0.01	ALL	0	0	True
+target within callable mask	D_pi	0.1	ALL	0	0	True
+target within callable mask	D_pi	0.05	ALL	0	0	True
+target within callable mask	D_pi	0.01	ALL	0	0	True
+target within callable mask	D_fDM	0.1	ALL	0	0	True
+target within callable mask	D_fDM	0.05	ALL	0	0	True
+target within callable mask	D_fDM	0.01	ALL	0	0	True
+target within callable mask	pi_fDM	0.1	ALL	0	0	True
+target within callable mask	pi_fDM	0.05	ALL	0	0	True
+target within callable mask	pi_fDM	0.01	ALL	0	0	True
+target within callable mask	D_pi_fDM	0.1	ALL	0	0	True
+target within callable mask	D_pi_fDM	0.05	ALL	0	0	True
+target within callable mask	D_pi_fDM	0.01	ALL	0	0	True
+observed count reconciliation	D	0.1	EHR	2	2	True
+observed count reconciliation	D	0.1	TELC	1	1	True
+observed count reconciliation	D	0.1	DELR2	0	0	True
+observed count reconciliation	D	0.1	DELR4	1	1	True
+observed count reconciliation	D	0.1	DELR5	1	1	True
+observed count reconciliation	D	0.1	IMM21	1	1	True
+observed count reconciliation	D	0.1	IMM35	3	3	True
+observed count reconciliation	D	0.1	IMM49	3	3	True
+observed count reconciliation	D	0.1	IMM56	2	2	True
+observed count reconciliation	D	0.1	IMM63	1	1	True
+observed count reconciliation	D	0.1	AW	6	6	True
+observed count reconciliation	D	0.1	PW	3	3	True
+observed count reconciliation	D	0.1	DTEP categorical	11	11	True
+observed count reconciliation	D	0.1	ALL	35	35	True
+observed count reconciliation	D	0.05	EHR	0	0	True
+observed count reconciliation	D	0.05	TELC	0	0	True
+observed count reconciliation	D	0.05	DELR2	0	0	True
+observed count reconciliation	D	0.05	DELR4	0	0	True
+observed count reconciliation	D	0.05	DELR5	1	1	True
+observed count reconciliation	D	0.05	IMM21	1	1	True
+observed count reconciliation	D	0.05	IMM35	2	2	True
+observed count reconciliation	D	0.05	IMM49	2	2	True
+observed count reconciliation	D	0.05	IMM56	2	2	True
+observed count reconciliation	D	0.05	IMM63	1	1	True
+observed count reconciliation	D	0.05	AW	2	2	True
+observed count reconciliation	D	0.05	PW	2	2	True
+observed count reconciliation	D	0.05	DTEP categorical	5	5	True
+observed count reconciliation	D	0.05	ALL	18	18	True
+observed count reconciliation	D	0.01	EHR	1	1	True
+observed count reconciliation	D	0.01	TELC	0	0	True
+observed count reconciliation	D	0.01	DELR2	0	0	True
+observed count reconciliation	D	0.01	DELR4	0	0	True
+observed count reconciliation	D	0.01	DELR5	0	0	True
+observed count reconciliation	D	0.01	IMM21	0	0	True
+observed count reconciliation	D	0.01	IMM35	0	0	True
+observed count reconciliation	D	0.01	IMM49	0	0	True
+observed count reconciliation	D	0.01	IMM56	0	0	True
+observed count reconciliation	D	0.01	IMM63	0	0	True
+observed count reconciliation	D	0.01	AW	0	0	True
+observed count reconciliation	D	0.01	PW	2	2	True
+observed count reconciliation	D	0.01	DTEP categorical	2	2	True
+observed count reconciliation	D	0.01	ALL	5	5	True
+observed count reconciliation	pi	0.1	EHR	9	9	True
+observed count reconciliation	pi	0.1	TELC	1	1	True
+observed count reconciliation	pi	0.1	DELR2	0	0	True
+observed count reconciliation	pi	0.1	DELR4	3	3	True
+observed count reconciliation	pi	0.1	DELR5	3	3	True
+observed count reconciliation	pi	0.1	IMM21	4	4	True
+observed count reconciliation	pi	0.1	IMM35	12	12	True
+observed count reconciliation	pi	0.1	IMM49	9	9	True
+observed count reconciliation	pi	0.1	IMM56	8	8	True
+observed count reconciliation	pi	0.1	IMM63	2	2	True
+observed count reconciliation	pi	0.1	AW	10	10	True
+observed count reconciliation	pi	0.1	PW	6	6	True
+observed count reconciliation	pi	0.1	DTEP categorical	32	32	True
+observed count reconciliation	pi	0.1	ALL	99	99	True
+observed count reconciliation	pi	0.05	EHR	9	9	True
+observed count reconciliation	pi	0.05	TELC	1	1	True
+observed count reconciliation	pi	0.05	DELR2	0	0	True
+observed count reconciliation	pi	0.05	DELR4	2	2	True
+observed count reconciliation	pi	0.05	DELR5	1	1	True
+observed count reconciliation	pi	0.05	IMM21	2	2	True
+observed count reconciliation	pi	0.05	IMM35	6	6	True
+observed count reconciliation	pi	0.05	IMM49	4	4	True
+observed count reconciliation	pi	0.05	IMM56	3	3	True
+observed count reconciliation	pi	0.05	IMM63	2	2	True
+observed count reconciliation	pi	0.05	AW	4	4	True
+observed count reconciliation	pi	0.05	PW	3	3	True
+observed count reconciliation	pi	0.05	DTEP categorical	17	17	True
+observed count reconciliation	pi	0.05	ALL	54	54	True
+observed count reconciliation	pi	0.01	EHR	2	2	True
+observed count reconciliation	pi	0.01	TELC	0	0	True
+observed count reconciliation	pi	0.01	DELR2	0	0	True
+observed count reconciliation	pi	0.01	DELR4	0	0	True
+observed count reconciliation	pi	0.01	DELR5	1	1	True
+observed count reconciliation	pi	0.01	IMM21	2	2	True
+observed count reconciliation	pi	0.01	IMM35	2	2	True
+observed count reconciliation	pi	0.01	IMM49	2	2	True
+observed count reconciliation	pi	0.01	IMM56	2	2	True
+observed count reconciliation	pi	0.01	IMM63	1	1	True
+observed count reconciliation	pi	0.01	AW	2	2	True
+observed count reconciliation	pi	0.01	PW	1	1	True
+observed count reconciliation	pi	0.01	DTEP categorical	5	5	True
+observed count reconciliation	pi	0.01	ALL	20	20	True
+observed count reconciliation	fDM	0.1	EHR	4	4	True
+observed count reconciliation	fDM	0.1	TELC	0	0	True
+observed count reconciliation	fDM	0.1	DELR2	0	0	True
+observed count reconciliation	fDM	0.1	DELR4	0	0	True
+observed count reconciliation	fDM	0.1	DELR5	1	1	True
+observed count reconciliation	fDM	0.1	IMM21	1	1	True
+observed count reconciliation	fDM	0.1	IMM35	2	2	True
+observed count reconciliation	fDM	0.1	IMM49	2	2	True
+observed count reconciliation	fDM	0.1	IMM56	2	2	True
+observed count reconciliation	fDM	0.1	IMM63	1	1	True
+observed count reconciliation	fDM	0.1	AW	1	1	True
+observed count reconciliation	fDM	0.1	PW	1	1	True
+observed count reconciliation	fDM	0.1	DTEP categorical	8	8	True
+observed count reconciliation	fDM	0.1	ALL	23	23	True
+observed count reconciliation	fDM	0.05	EHR	2	2	True
+observed count reconciliation	fDM	0.05	TELC	0	0	True
+observed count reconciliation	fDM	0.05	DELR2	0	0	True
+observed count reconciliation	fDM	0.05	DELR4	0	0	True
+observed count reconciliation	fDM	0.05	DELR5	1	1	True
+observed count reconciliation	fDM	0.05	IMM21	0	0	True
+observed count reconciliation	fDM	0.05	IMM35	1	1	True
+observed count reconciliation	fDM	0.05	IMM49	1	1	True
+observed count reconciliation	fDM	0.05	IMM56	1	1	True
+observed count reconciliation	fDM	0.05	IMM63	0	0	True
+observed count reconciliation	fDM	0.05	AW	1	1	True
+observed count reconciliation	fDM	0.05	PW	0	0	True
+observed count reconciliation	fDM	0.05	DTEP categorical	3	3	True
+observed count reconciliation	fDM	0.05	ALL	10	10	True
+observed count reconciliation	fDM	0.01	EHR	1	1	True
+observed count reconciliation	fDM	0.01	TELC	0	0	True
+observed count reconciliation	fDM	0.01	DELR2	0	0	True
+observed count reconciliation	fDM	0.01	DELR4	0	0	True
+observed count reconciliation	fDM	0.01	DELR5	0	0	True
+observed count reconciliation	fDM	0.01	IMM21	0	0	True
+observed count reconciliation	fDM	0.01	IMM35	0	0	True
+observed count reconciliation	fDM	0.01	IMM49	0	0	True
+observed count reconciliation	fDM	0.01	IMM56	0	0	True
+observed count reconciliation	fDM	0.01	IMM63	0	0	True
+observed count reconciliation	fDM	0.01	AW	1	1	True
+observed count reconciliation	fDM	0.01	PW	0	0	True
+observed count reconciliation	fDM	0.01	DTEP categorical	0	0	True
+observed count reconciliation	fDM	0.01	ALL	2	2	True
+observed count reconciliation	D_pi	0.1	EHR	1	1	True
+observed count reconciliation	D_pi	0.1	TELC	1	1	True
+observed count reconciliation	D_pi	0.1	DELR2	0	0	True
+observed count reconciliation	D_pi	0.1	DELR4	1	1	True
+observed count reconciliation	D_pi	0.1	DELR5	1	1	True
+observed count reconciliation	D_pi	0.1	IMM21	1	1	True
+observed count reconciliation	D_pi	0.1	IMM35	1	1	True
+observed count reconciliation	D_pi	0.1	IMM49	1	1	True
+observed count reconciliation	D_pi	0.1	IMM56	1	1	True
+observed count reconciliation	D_pi	0.1	IMM63	1	1	True
+observed count reconciliation	D_pi	0.1	AW	3	3	True
+observed count reconciliation	D_pi	0.1	PW	1	1	True
+observed count reconciliation	D_pi	0.1	DTEP categorical	7	7	True
+observed count reconciliation	D_pi	0.1	ALL	20	20	True
+observed count reconciliation	D_pi	0.05	EHR	0	0	True
+observed count reconciliation	D_pi	0.05	TELC	0	0	True
+observed count reconciliation	D_pi	0.05	DELR2	0	0	True
+observed count reconciliation	D_pi	0.05	DELR4	0	0	True
+observed count reconciliation	D_pi	0.05	DELR5	1	1	True
+observed count reconciliation	D_pi	0.05	IMM21	1	1	True
+observed count reconciliation	D_pi	0.05	IMM35	1	1	True
+observed count reconciliation	D_pi	0.05	IMM49	1	1	True
+observed count reconciliation	D_pi	0.05	IMM56	1	1	True
+observed count reconciliation	D_pi	0.05	IMM63	1	1	True
+observed count reconciliation	D_pi	0.05	AW	0	0	True
+observed count reconciliation	D_pi	0.05	PW	1	1	True
+observed count reconciliation	D_pi	0.05	DTEP categorical	2	2	True
+observed count reconciliation	D_pi	0.05	ALL	9	9	True
+observed count reconciliation	D_pi	0.01	EHR	1	1	True
+observed count reconciliation	D_pi	0.01	TELC	0	0	True
+observed count reconciliation	D_pi	0.01	DELR2	0	0	True
+observed count reconciliation	D_pi	0.01	DELR4	0	0	True
+observed count reconciliation	D_pi	0.01	DELR5	0	0	True
+observed count reconciliation	D_pi	0.01	IMM21	0	0	True
+observed count reconciliation	D_pi	0.01	IMM35	0	0	True
+observed count reconciliation	D_pi	0.01	IMM49	0	0	True
+observed count reconciliation	D_pi	0.01	IMM56	0	0	True
+observed count reconciliation	D_pi	0.01	IMM63	0	0	True
+observed count reconciliation	D_pi	0.01	AW	0	0	True
+observed count reconciliation	D_pi	0.01	PW	0	0	True
+observed count reconciliation	D_pi	0.01	DTEP categorical	1	1	True
+observed count reconciliation	D_pi	0.01	ALL	2	2	True
+observed count reconciliation	D_fDM	0.1	EHR	1	1	True
+observed count reconciliation	D_fDM	0.1	TELC	0	0	True
+observed count reconciliation	D_fDM	0.1	DELR2	0	0	True
+observed count reconciliation	D_fDM	0.1	DELR4	0	0	True
+observed count reconciliation	D_fDM	0.1	DELR5	0	0	True
+observed count reconciliation	D_fDM	0.1	IMM21	0	0	True
+observed count reconciliation	D_fDM	0.1	IMM35	0	0	True
+observed count reconciliation	D_fDM	0.1	IMM49	0	0	True
+observed count reconciliation	D_fDM	0.1	IMM56	0	0	True
+observed count reconciliation	D_fDM	0.1	IMM63	0	0	True
+observed count reconciliation	D_fDM	0.1	AW	0	0	True
+observed count reconciliation	D_fDM	0.1	PW	0	0	True
+observed count reconciliation	D_fDM	0.1	DTEP categorical	1	1	True
+observed count reconciliation	D_fDM	0.1	ALL	2	2	True
+observed count reconciliation	D_fDM	0.05	EHR	0	0	True
+observed count reconciliation	D_fDM	0.05	TELC	0	0	True
+observed count reconciliation	D_fDM	0.05	DELR2	0	0	True
+observed count reconciliation	D_fDM	0.05	DELR4	0	0	True
+observed count reconciliation	D_fDM	0.05	DELR5	0	0	True
+observed count reconciliation	D_fDM	0.05	IMM21	0	0	True
+observed count reconciliation	D_fDM	0.05	IMM35	0	0	True
+observed count reconciliation	D_fDM	0.05	IMM49	0	0	True
+observed count reconciliation	D_fDM	0.05	IMM56	0	0	True
+observed count reconciliation	D_fDM	0.05	IMM63	0	0	True
+observed count reconciliation	D_fDM	0.05	AW	0	0	True
+observed count reconciliation	D_fDM	0.05	PW	0	0	True
+observed count reconciliation	D_fDM	0.05	DTEP categorical	0	0	True
+observed count reconciliation	D_fDM	0.05	ALL	0	0	True
+observed count reconciliation	D_fDM	0.01	EHR	0	0	True
+observed count reconciliation	D_fDM	0.01	TELC	0	0	True
+observed count reconciliation	D_fDM	0.01	DELR2	0	0	True
+observed count reconciliation	D_fDM	0.01	DELR4	0	0	True
+observed count reconciliation	D_fDM	0.01	DELR5	0	0	True
+observed count reconciliation	D_fDM	0.01	IMM21	0	0	True
+observed count reconciliation	D_fDM	0.01	IMM35	0	0	True
+observed count reconciliation	D_fDM	0.01	IMM49	0	0	True
+observed count reconciliation	D_fDM	0.01	IMM56	0	0	True
+observed count reconciliation	D_fDM	0.01	IMM63	0	0	True
+observed count reconciliation	D_fDM	0.01	AW	0	0	True
+observed count reconciliation	D_fDM	0.01	PW	0	0	True
+observed count reconciliation	D_fDM	0.01	DTEP categorical	0	0	True
+observed count reconciliation	D_fDM	0.01	ALL	0	0	True
+observed count reconciliation	pi_fDM	0.1	EHR	3	3	True
+observed count reconciliation	pi_fDM	0.1	TELC	0	0	True
+observed count reconciliation	pi_fDM	0.1	DELR2	0	0	True
+observed count reconciliation	pi_fDM	0.1	DELR4	0	0	True
+observed count reconciliation	pi_fDM	0.1	DELR5	0	0	True
+observed count reconciliation	pi_fDM	0.1	IMM21	0	0	True
+observed count reconciliation	pi_fDM	0.1	IMM35	1	1	True
+observed count reconciliation	pi_fDM	0.1	IMM49	1	1	True
+observed count reconciliation	pi_fDM	0.1	IMM56	1	1	True
+observed count reconciliation	pi_fDM	0.1	IMM63	0	0	True
+observed count reconciliation	pi_fDM	0.1	AW	0	0	True
+observed count reconciliation	pi_fDM	0.1	PW	0	0	True
+observed count reconciliation	pi_fDM	0.1	DTEP categorical	2	2	True
+observed count reconciliation	pi_fDM	0.1	ALL	8	8	True
+observed count reconciliation	pi_fDM	0.05	EHR	2	2	True
+observed count reconciliation	pi_fDM	0.05	TELC	0	0	True
+observed count reconciliation	pi_fDM	0.05	DELR2	0	0	True
+observed count reconciliation	pi_fDM	0.05	DELR4	0	0	True
+observed count reconciliation	pi_fDM	0.05	DELR5	0	0	True
+observed count reconciliation	pi_fDM	0.05	IMM21	0	0	True
+observed count reconciliation	pi_fDM	0.05	IMM35	0	0	True
+observed count reconciliation	pi_fDM	0.05	IMM49	0	0	True
+observed count reconciliation	pi_fDM	0.05	IMM56	0	0	True
+observed count reconciliation	pi_fDM	0.05	IMM63	0	0	True
+observed count reconciliation	pi_fDM	0.05	AW	0	0	True
+observed count reconciliation	pi_fDM	0.05	PW	0	0	True
+observed count reconciliation	pi_fDM	0.05	DTEP categorical	0	0	True
+observed count reconciliation	pi_fDM	0.05	ALL	2	2	True
+observed count reconciliation	pi_fDM	0.01	EHR	0	0	True
+observed count reconciliation	pi_fDM	0.01	TELC	0	0	True
+observed count reconciliation	pi_fDM	0.01	DELR2	0	0	True
+observed count reconciliation	pi_fDM	0.01	DELR4	0	0	True
+observed count reconciliation	pi_fDM	0.01	DELR5	0	0	True
+observed count reconciliation	pi_fDM	0.01	IMM21	0	0	True
+observed count reconciliation	pi_fDM	0.01	IMM35	0	0	True
+observed count reconciliation	pi_fDM	0.01	IMM49	0	0	True
+observed count reconciliation	pi_fDM	0.01	IMM56	0	0	True
+observed count reconciliation	pi_fDM	0.01	IMM63	0	0	True
+observed count reconciliation	pi_fDM	0.01	AW	0	0	True
+observed count reconciliation	pi_fDM	0.01	PW	0	0	True
+observed count reconciliation	pi_fDM	0.01	DTEP categorical	0	0	True
+observed count reconciliation	pi_fDM	0.01	ALL	0	0	True
+observed count reconciliation	D_pi_fDM	0.1	EHR	0	0	True
+observed count reconciliation	D_pi_fDM	0.1	TELC	0	0	True
+observed count reconciliation	D_pi_fDM	0.1	DELR2	0	0	True
+observed count reconciliation	D_pi_fDM	0.1	DELR4	0	0	True
+observed count reconciliation	D_pi_fDM	0.1	DELR5	0	0	True
+observed count reconciliation	D_pi_fDM	0.1	IMM21	0	0	True
+observed count reconciliation	D_pi_fDM	0.1	IMM35	0	0	True
+observed count reconciliation	D_pi_fDM	0.1	IMM49	0	0	True
+observed count reconciliation	D_pi_fDM	0.1	IMM56	0	0	True
+observed count reconciliation	D_pi_fDM	0.1	IMM63	0	0	True
+observed count reconciliation	D_pi_fDM	0.1	AW	0	0	True
+observed count reconciliation	D_pi_fDM	0.1	PW	0	0	True
+observed count reconciliation	D_pi_fDM	0.1	DTEP categorical	1	1	True
+observed count reconciliation	D_pi_fDM	0.1	ALL	1	1	True
+observed count reconciliation	D_pi_fDM	0.05	EHR	0	0	True
+observed count reconciliation	D_pi_fDM	0.05	TELC	0	0	True
+observed count reconciliation	D_pi_fDM	0.05	DELR2	0	0	True
+observed count reconciliation	D_pi_fDM	0.05	DELR4	0	0	True
+observed count reconciliation	D_pi_fDM	0.05	DELR5	0	0	True
+observed count reconciliation	D_pi_fDM	0.05	IMM21	0	0	True
+observed count reconciliation	D_pi_fDM	0.05	IMM35	0	0	True
+observed count reconciliation	D_pi_fDM	0.05	IMM49	0	0	True
+observed count reconciliation	D_pi_fDM	0.05	IMM56	0	0	True
+observed count reconciliation	D_pi_fDM	0.05	IMM63	0	0	True
+observed count reconciliation	D_pi_fDM	0.05	AW	0	0	True
+observed count reconciliation	D_pi_fDM	0.05	PW	0	0	True
+observed count reconciliation	D_pi_fDM	0.05	DTEP categorical	0	0	True
+observed count reconciliation	D_pi_fDM	0.05	ALL	0	0	True
+observed count reconciliation	D_pi_fDM	0.01	EHR	0	0	True
+observed count reconciliation	D_pi_fDM	0.01	TELC	0	0	True
+observed count reconciliation	D_pi_fDM	0.01	DELR2	0	0	True
+observed count reconciliation	D_pi_fDM	0.01	DELR4	0	0	True
+observed count reconciliation	D_pi_fDM	0.01	DELR5	0	0	True
+observed count reconciliation	D_pi_fDM	0.01	IMM21	0	0	True
+observed count reconciliation	D_pi_fDM	0.01	IMM35	0	0	True
+observed count reconciliation	D_pi_fDM	0.01	IMM49	0	0	True
+observed count reconciliation	D_pi_fDM	0.01	IMM56	0	0	True
+observed count reconciliation	D_pi_fDM	0.01	IMM63	0	0	True
+observed count reconciliation	D_pi_fDM	0.01	AW	0	0	True
+observed count reconciliation	D_pi_fDM	0.01	PW	0	0	True
+observed count reconciliation	D_pi_fDM	0.01	DTEP categorical	0	0	True
+observed count reconciliation	D_pi_fDM	0.01	ALL	0	0	True

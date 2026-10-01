@@ -1,0 +1,1135 @@
+selection_region_id	chromosome	start	end	farmed_populations	wild_support	selection_class
+D5_00001	1	4047536	4057535	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00002	1	11017536	11027535	Dole7	True	farmed_and_wild
+D5_00003	1	11147536	11182535	Dole7;Kingsect Belgium;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00004	1	12087536	12097535	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00005	1	14057536	14067535	Dole7	True	farmed_and_wild
+D5_00006	1	14417536	14437535	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00007	1	14527536	14537535	Papek Czechia	True	farmed_and_wild
+D5_00008	1	14547536	14557535	Papek Czechia	True	farmed_and_wild
+D5_00009	1	15027536	15037535	Dole7;Papek Czechia	True	farmed_and_wild
+D5_00010	1	15257536	15267535	Dole7;Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00011	1	15277536	15297535	Dole7;Starfood Holland	True	farmed_and_wild
+D5_00012	1	15297536	15377535	Dole7;Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00013	1	16087536	16097535	Dole7;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00014	1	16417536	16682535	Dole7;Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00015	1	18722536	18872535	Kingsect Belgium;Pronutrix+ Belgium	True	farmed_and_wild
+D5_00016	1	19012536	19352535	Dole7;Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00017	1	19697536	19707535	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00018	1	20007536	20017535	Dole7;Starfood Holland	True	farmed_and_wild
+D5_00019	1	20717536	20727535	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00020	1	20917536	20977535	Dole7;Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00021	1	21447536	21457535	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00022	1	21957536	21977535	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00023	1	22777536	22797535	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium	True	farmed_and_wild
+D5_00024	1	25487536	25497535	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium	True	farmed_and_wild
+D5_00025	1	25567536	25577535	Dole7;Mystik Canada	True	farmed_and_wild
+D5_00026	1	25627536	25637535	Dole7;Pronutrix+ Belgium	True	farmed_and_wild
+D5_00027	1	26018102	26028101	Dole7;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00028	1	26178102	26188101	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00029	1	26498102	26518101	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00030	1	26878102	26898101	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00031	1	26958102	26968101	Dole7	True	farmed_and_wild
+D5_00032	1	27308102	27318101	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00033	1	27328102	27338101	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00034	1	28108102	28128101	Dole7;Mystik Canada	True	farmed_and_wild
+D5_00035	1	28178102	28188101	Dole7	True	farmed_and_wild
+D5_00036	1	28248102	28258101	Dole7;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00037	1	29728102	29898101	Dole7;Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00038	1	29923102	30393101	Dole7;Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00039	1	30908102	30918101	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00040	1	31198102	31208101	Mystik Canada	True	farmed_and_wild
+D5_00041	1	31518102	31528101	Dole7;Mystik Canada;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00042	1	31788102	31798101	Mystik Canada	True	farmed_and_wild
+D5_00043	1	31948102	31968101	Dole7;Kingsect Belgium;Mystik Canada;Pronutrix+ Belgium	True	farmed_and_wild
+D5_00044	1	32058102	32093101	Dole7;Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00045	1	32103102	32118101	Dole7;Kingsect Belgium;Papek Czechia;Pronutrix+ Belgium	True	farmed_and_wild
+D5_00046	1	33988102	34008101	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00047	1	38908102	38928101	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00048	1	41128102	41148101	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00049	1	47488102	47548101	Dole7;Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00050	10	685000	714999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00051	10	1785000	1834999	Dole7;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00052	10	1985000	2004999	Dole7;Pronutrix+ Belgium	True	farmed_and_wild
+D5_00053	10	3825000	3834999	Dole7	True	farmed_and_wild
+D5_00054	10	11905000	11914999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium	True	farmed_and_wild
+D5_00055	10	12135000	12194999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00056	10	12205000	12224999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00057	10	12235000	12244999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00058	10	12275000	12284999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00059	10	12495000	12504999	Dole7;Papek Czechia	True	farmed_and_wild
+D5_00060	10	12645000	13169999	Dole7;Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00061	10	13185000	13204999	Dole7;Papek Czechia	True	farmed_and_wild
+D5_00062	10	13280000	13549999	Dole7;Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00063	10	13665000	13769999	Dole7;Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00064	10	13785000	13794999	Dole7;Papek Czechia	True	farmed_and_wild
+D5_00065	10	13805000	13814999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00066	10	13820000	13939999	Dole7;Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00067	10	13955000	14134999	Dole7;Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00068	10	14175000	14184999	Dole7;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00069	10	14215000	14234999	Dole7	True	farmed_and_wild
+D5_00070	10	14305000	14334999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00071	10	14345000	14374999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium	True	farmed_and_wild
+D5_00072	10	14380000	14439999	Dole7;Kingsect Belgium;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00073	10	14525000	14544999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00074	10	14575000	14584999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00075	10	14695000	14704999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00076	10	14765000	14794999	Dole7	True	farmed_and_wild
+D5_00077	10	14840000	14944999	Dole7;Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00078	10	14990000	15094999	Dole7;Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00079	10	15215000	15274999	Dole7;Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00080	10	15405000	15444999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00081	10	15495000	15504999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00082	10	15720000	15749999	Dole7;Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00083	10	15765000	15774999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium	True	farmed_and_wild
+D5_00084	2	35000	109999	Dole7;Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00085	2	3275000	3294999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00086	2	5825000	5834999	Papek Czechia;Pronutrix+ Belgium	True	farmed_and_wild
+D5_00087	2	7125000	7174999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00088	2	7845000	7854999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00089	2	10895000	10914999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00090	2	11615000	11624999	Dole7;Starfood Holland	True	farmed_and_wild
+D5_00091	2	11645000	11694999	Dole7;Mystik Canada	True	farmed_and_wild
+D5_00092	2	12055000	12064999	Dole7;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00093	2	15345000	15364999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00094	2	15695000	15704999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00095	2	16705000	16714999	Dole7	True	farmed_and_wild
+D5_00096	2	17385000	17394999	Dole7	True	farmed_and_wild
+D5_00097	2	18235000	18244999	Dole7;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00098	2	20275000	20284999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00099	2	22285000	22294999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00100	2	30415000	30424999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00101	2	32060000	32159999	Dole7;Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00102	2	32345000	32639999	Dole7;Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00103	2	32850000	33009999	Dole7;Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00104	2	33015000	33024999	Dole7;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00105	3	945000	954999	Dole7;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00106	3	1045000	1074999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00107	3	8295000	8334999	Pronutrix+ Belgium	True	farmed_and_wild
+D5_00108	3	10325000	10334999	Dole7	True	farmed_and_wild
+D5_00109	3	10740000	10779999	Dole7;Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00110	3	10945000	10954999	Dole7;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00111	3	11025000	11054999	Dole7;Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00112	3	11225000	11234999	Dole7;Mystik Canada;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00113	3	11555000	11564999	Dole7;Mystik Canada;Pronutrix+ Belgium	True	farmed_and_wild
+D5_00114	3	11615000	11644999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00115	3	13405000	13424999	Dole7;Papek Czechia	True	farmed_and_wild
+D5_00116	3	13555000	13564999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00117	3	13715000	13764999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00118	3	13910000	13984999	Dole7;Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00119	3	14835000	14854999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00120	3	15795000	15804999	Dole7;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00121	3	16275000	16284999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00122	3	16415000	16424999	Dole7	True	farmed_and_wild
+D5_00123	3	16485000	16494999	Mystik Canada	True	farmed_and_wild
+D5_00124	3	16595000	16604999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00125	3	16765000	16794999	Dole7;Papek Czechia	True	farmed_and_wild
+D5_00126	3	16805000	16814999	Dole7	True	farmed_and_wild
+D5_00127	3	16825000	16844999	Dole7;Mystik Canada	True	farmed_and_wild
+D5_00128	3	16855000	16894999	Dole7	True	farmed_and_wild
+D5_00129	3	16905000	16944999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00130	3	16985000	16994999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00131	3	17015000	17034999	Dole7;Mystik Canada;Papek Czechia	True	farmed_and_wild
+D5_00132	3	17095000	17124999	Dole7	True	farmed_and_wild
+D5_00133	3	17165000	17194999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium	True	farmed_and_wild
+D5_00134	3	17245000	17254999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00135	3	17265000	17314999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00136	3	17365000	17374999	Dole7;Pronutrix+ Belgium	True	farmed_and_wild
+D5_00137	3	17405000	17414999	Dole7;Mystik Canada	True	farmed_and_wild
+D5_00138	3	17445000	17474999	Dole7;Mystik Canada;Pronutrix+ Belgium	True	farmed_and_wild
+D5_00139	3	17485000	17594999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00140	3	17605000	17624999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium	True	farmed_and_wild
+D5_00141	3	17635000	17664999	Dole7;Mystik Canada	True	farmed_and_wild
+D5_00142	3	17685000	17724999	Dole7;Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00143	3	17735000	17744999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00144	3	17775000	17844999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00145	3	17915000	17934999	Dole7	True	farmed_and_wild
+D5_00146	3	18528622	18568621	Dole7;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00147	3	19098622	19138621	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00148	3	19398622	19438621	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00149	3	19528622	19538621	Mystik Canada;Pronutrix+ Belgium	True	farmed_and_wild
+D5_00150	3	19698622	19718621	Dole7;Mystik Canada;Pronutrix+ Belgium	True	farmed_and_wild
+D5_00151	3	20328622	20338621	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00152	3	20358622	20368621	Dole7	True	farmed_and_wild
+D5_00153	3	20438622	20448621	Dole7;Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00154	3	20988622	21008621	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00155	3	21168622	21188621	Dole7;Pronutrix+ Belgium	True	farmed_and_wild
+D5_00156	3	21688622	21698621	Dole7	True	farmed_and_wild
+D5_00157	3	22088622	22118621	Dole7;Mystik Canada;Starfood Holland	True	farmed_and_wild
+D5_00158	3	22948622	22968621	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00159	3	23418622	23438621	Dole7;Starfood Holland	True	farmed_and_wild
+D5_00160	3	24203622	24243621	Dole7;Kingsect Belgium;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00161	3	24248622	24258621	Dole7;Papek Czechia	True	farmed_and_wild
+D5_00162	3	25188622	25228621	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00163	3	25778622	25788621	Dole7	True	farmed_and_wild
+D5_00164	3	26568622	26598621	Dole7;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00165	3	31038622	31078621	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00166	4	845000	854999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00167	4	1405000	1414999	Dole7;Mystik Canada;Pronutrix+ Belgium	True	farmed_and_wild
+D5_00168	4	3275000	3284999	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00169	4	4045000	4054999	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00170	4	5155000	5164999	Papek Czechia	True	farmed_and_wild
+D5_00171	4	5675000	5684999	Pronutrix+ Belgium	True	farmed_and_wild
+D5_00172	4	5705000	5724999	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00173	4	7565000	7674999	Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00174	4	10358144	10368143	Mystik Canada;Papek Czechia;Pronutrix+ Belgium	True	farmed_and_wild
+D5_00175	4	10428144	10438143	Mystik Canada;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00176	4	10538144	10548143	Starfood Holland	True	farmed_and_wild
+D5_00177	4	10698144	10708143	Starfood Holland	True	farmed_and_wild
+D5_00178	4	11173144	11253143	Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00179	4	12098144	12108143	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00180	4	12393144	12453143	Kingsect Belgium	True	farmed_and_wild
+D5_00181	4	12463144	12568143	Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00182	4	12988144	12998143	Mystik Canada;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00183	4	13048144	13078143	Pronutrix+ Belgium	True	farmed_and_wild
+D5_00184	4	13168144	13178143	Pronutrix+ Belgium	True	farmed_and_wild
+D5_00185	4	13668144	13678143	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00186	4	13978144	14008143	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00187	4	15178144	15188143	Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00188	4	15568243	15588242	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00189	4	15598243	15638242	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00190	4	16879214	16969213	Kingsect Belgium;Mystik Canada;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00191	4	17974214	17984213	Mystik Canada;Papek Czechia;Pronutrix+ Belgium	True	farmed_and_wild
+D5_00192	4	18634214	18654213	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00193	4	19874214	19884213	Papek Czechia;Pronutrix+ Belgium	True	farmed_and_wild
+D5_00194	4	20104214	20114213	Starfood Holland	True	farmed_and_wild
+D5_00195	4	20394214	20404213	Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00196	4	20634214	20644213	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00197	4	20684214	20754213	Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00198	4	20784214	20804213	Kingsect Belgium;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00199	4	20819214	21074213	Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00200	4	21374214	21394213	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00201	4	21544214	21709213	Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00202	4	21814214	21969213	Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00203	4	22044214	22084213	Mystik Canada;Papek Czechia;Pronutrix+ Belgium	True	farmed_and_wild
+D5_00204	4	22258801	22268800	Mystik Canada;Papek Czechia;Pronutrix+ Belgium	True	farmed_and_wild
+D5_00205	4	22418801	22438800	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00206	4	22538801	22548800	Mystik Canada;Papek Czechia	True	farmed_and_wild
+D5_00207	4	22878801	23458800	Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00208	4	23688900	23823899	Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00209	4	23828900	23838899	Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00210	4	24378900	24388899	Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00211	4	24808900	25013899	Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00212	4	26688900	26778899	Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00213	4	26788900	26798899	Mystik Canada	True	farmed_and_wild
+D5_00214	4	26808900	26818899	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00215	4	27028900	27048899	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00216	4	27378900	27388899	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00217	4	28308900	28338899	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00218	4	28358900	28368899	Pronutrix+ Belgium	True	farmed_and_wild
+D5_00219	4	29748900	29758899	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00220	4	29768900	29788899	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00221	5	855000	864999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00222	5	2875000	2894999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00223	5	3055000	3064999	Dole7;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00224	5	4045000	4054999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00225	5	4475000	4484999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00226	5	5235000	5504999	Dole7;Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00227	5	5735000	5764999	Dole7;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00228	5	6105000	6114999	Dole7;Mystik Canada;Papek Czechia	True	farmed_and_wild
+D5_00229	5	8515000	8524999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00230	5	16635000	16654999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00231	5	17755000	17774999	Pronutrix+ Belgium	True	farmed_and_wild
+D5_00232	5	18535000	18564999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00233	5	19825000	19834999	Dole7	True	farmed_and_wild
+D5_00234	5	20135000	20144999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00235	5	21230000	21304999	Dole7;Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00236	5	22135000	22154999	Mystik Canada	True	farmed_and_wild
+D5_00237	5	22525000	22554999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00238	5	22635000	22664999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00239	5	23135000	23154999	Dole7;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00240	5	23875000	23884999	Dole7;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00241	5	23915000	23934999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00242	5	25785000	25794999	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00243	6	5000	104999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00244	6	105000	164999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00245	6	165000	204999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00246	6	910000	979999	Dole7;Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00247	6	1685000	1714999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00248	6	1865000	1884999	Dole7;Pronutrix+ Belgium	True	farmed_and_wild
+D5_00249	6	3825000	3854999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00250	6	5105000	5114999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00251	6	7225000	7254999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00252	6	7365000	7414999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00253	6	9615000	9654999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00254	6	13925000	13954999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00255	6	14455000	14474999	Dole7	True	farmed_and_wild
+D5_00256	6	17715000	17764999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00257	6	17855000	17914999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium	True	farmed_and_wild
+D5_00258	6	18865000	18874999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00259	6	19255000	19264999	Pronutrix+ Belgium	True	farmed_and_wild
+D5_00260	6	19985000	20014999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00261	6	20180000	20229999	Dole7;Kingsect Belgium;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00262	6	20615000	20624999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00263	6	21965000	21974999	Dole7;Mystik Canada;Pronutrix+ Belgium	True	farmed_and_wild
+D5_00264	6	22145000	22154999	Dole7	True	farmed_and_wild
+D5_00265	6	22185000	22199999	Dole7;Kingsect Belgium;Mystik Canada;Pronutrix+ Belgium	True	farmed_and_wild
+D5_00266	6	22210000	22244999	Dole7;Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00267	6	22255000	22264999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00268	6	22605000	22634999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00269	7	35000	44999	Dole7;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00270	7	75000	84999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00271	7	795000	804999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00272	7	1855000	1874999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00273	7	2745000	2774999	Dole7;Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00274	7	3765000	3794999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00275	7	4765000	4774999	Dole7;Mystik Canada;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00276	7	12845000	12864999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00277	7	18835000	18844999	Dole7	True	farmed_and_wild
+D5_00278	7	18925000	18974999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00279	7	19245000	19254999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00280	7	19825000	19834999	Dole7;Papek Czechia;Pronutrix+ Belgium	True	farmed_and_wild
+D5_00281	7	20085000	20114999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00282	7	20155000	20264999	Dole7;Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00283	7	20325000	20354999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00284	7	20420000	20434999	Dole7;Kingsect Belgium;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00285	7	20445000	20504999	Dole7;Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00286	7	20565000	20594999	Dole7;Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00287	7	20600000	21579999	Dole7;Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00288	7	21595000	21639999	Dole7;Kingsect Belgium;Papek Czechia;Pronutrix+ Belgium	True	farmed_and_wild
+D5_00289	7	21645000	21664999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00290	7	21835000	21864999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00291	8	565000	574999	Papek Czechia	True	farmed_and_wild
+D5_00292	8	955000	964999	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00293	8	1153615	1163614	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00294	8	1513615	1523614	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00295	8	1773615	1783614	Dole7;Pronutrix+ Belgium	True	farmed_and_wild
+D5_00296	8	5063615	5073614	Dole7	True	farmed_and_wild
+D5_00297	8	5163615	5283614	Dole7;Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00298	8	5933615	5943614	Dole7;Pronutrix+ Belgium	True	farmed_and_wild
+D5_00299	8	8733615	8753614	Dole7	True	farmed_and_wild
+D5_00300	8	9103615	9188614	Dole7;Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00301	8	9323615	9543614	Dole7;Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00302	8	9563615	9613614	Dole7	True	farmed_and_wild
+D5_00303	8	9663615	9673614	Dole7;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00304	8	9913615	9923614	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00305	8	10103615	10113614	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00306	8	10168615	10268614	Dole7;Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00307	8	10318615	10538614	Dole7;Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00308	8	10553615	10713614	Dole7;Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00309	8	10718615	10743614	Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium	True	farmed_and_wild
+D5_00310	8	10908615	11073614	Dole7;Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00311	8	11082042	11547041	Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00312	8	11562042	11572041	Mystik Canada;Papek Czechia	True	farmed_and_wild
+D5_00313	8	12052042	12062041	Pronutrix+ Belgium	True	farmed_and_wild
+D5_00314	8	12602042	12612041	Mystik Canada	True	farmed_and_wild
+D5_00315	8	12692042	12702041	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00316	8	13072042	13092041	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00317	8	13712042	13722041	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00318	8	14832042	14842041	Pronutrix+ Belgium	True	farmed_and_wild
+D5_00319	8	17652042	17662041	Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00320	8	18912042	18967041	Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00321	8	18982042	18992041	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00322	9	28786	48785	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00323	9	58786	78785	Mystik Canada;Papek Czechia;Pronutrix+ Belgium	True	farmed_and_wild
+D5_00324	9	108786	118785	Dole7	True	farmed_and_wild
+D5_00325	9	258786	278785	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00326	9	588786	638785	Dole7;Kingsect Belgium;Pronutrix+ Belgium	True	farmed_and_wild
+D5_00327	9	638786	658785	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00328	9	1768786	1778785	Dole7;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00329	9	1798786	1808785	Dole7;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00330	9	1818786	1828785	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00331	9	1848786	1858785	Dole7;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00332	9	2498786	2508785	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00333	9	3498786	3508785	Dole7;Papek Czechia	True	farmed_and_wild
+D5_00334	9	5258786	5268785	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00335	9	5738786	5748785	Mystik Canada;Pronutrix+ Belgium	True	farmed_and_wild
+D5_00336	9	6458786	6468785	Dole7;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00337	9	10418786	10428785	Papek Czechia;Pronutrix+ Belgium	True	farmed_and_wild
+D5_00338	9	11068786	11078785	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00339	9	12838786	12848785	Dole7	True	farmed_and_wild
+D5_00340	9	14378786	14388785	Dole7;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00341	9	16178786	16188785	Dole7;Papek Czechia;Pronutrix+ Belgium	True	farmed_and_wild
+D5_00342	9	16798786	16828785	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00343	9	18358885	18378884	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00344	Tmol_scf_101	5000	74999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00345	Tmol_scf_103	45000	64999	Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00346	Tmol_scf_106	5000	54999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00347	Tmol_scf_107	15000	44999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00348	Tmol_scf_108	25000	44999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00349	Tmol_scf_109	5000	34999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00350	Tmol_scf_18	205000	214999	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00351	Tmol_scf_18	375000	384999	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00352	Tmol_scf_18	395000	414999	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00353	Tmol_scf_18	455000	464999	Mystik Canada;Papek Czechia;Pronutrix+ Belgium	True	farmed_and_wild
+D5_00354	Tmol_scf_18	485000	514999	Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00355	Tmol_scf_18	535000	544999	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00356	Tmol_scf_18	605000	624999	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00357	Tmol_scf_18	665000	684999	Mystik Canada;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00358	Tmol_scf_18	695000	714999	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00359	Tmol_scf_18	795000	1169999	Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00360	Tmol_scf_18	1320000	1524999	Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00361	Tmol_scf_18	1545000	1554999	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00362	Tmol_scf_21	485000	494999	Mystik Canada;Pronutrix+ Belgium	True	farmed_and_wild
+D5_00363	Tmol_scf_21	815000	824999	Mystik Canada;Pronutrix+ Belgium	True	farmed_and_wild
+D5_00364	Tmol_scf_21	830000	1044999	Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00365	Tmol_scf_22	15000	24999	Starfood Holland	True	farmed_and_wild
+D5_00366	Tmol_scf_22	115000	764999	Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00367	Tmol_scf_23	485000	504999	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00368	Tmol_scf_23	605000	674999	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00369	Tmol_scf_24	355000	364999	Pronutrix+ Belgium	True	farmed_and_wild
+D5_00370	Tmol_scf_24	570000	644999	Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00371	Tmol_scf_25	155000	174999	Mystik Canada	True	farmed_and_wild
+D5_00372	Tmol_scf_25	195000	204999	Pronutrix+ Belgium	True	farmed_and_wild
+D5_00373	Tmol_scf_25	435000	444999	Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00374	Tmol_scf_28	15000	294999	Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00375	Tmol_scf_28	355000	454999	Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00376	Tmol_scf_29	65000	94999	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00377	Tmol_scf_29	155000	199999	Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00378	Tmol_scf_29	215000	224999	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00379	Tmol_scf_29	295000	434999	Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00380	Tmol_scf_31	25000	54999	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00381	Tmol_scf_31	135000	144999	Mystik Canada;Papek Czechia;Pronutrix+ Belgium	True	farmed_and_wild
+D5_00382	Tmol_scf_31	165000	394999	Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00383	Tmol_scf_32	5000	34999	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00384	Tmol_scf_32	50000	289999	Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00385	Tmol_scf_33	145000	154999	Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00386	Tmol_scf_34	15000	194999	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00387	Tmol_scf_34	205000	354999	Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00388	Tmol_scf_36	5000	34999	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00389	Tmol_scf_36	55000	84999	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00390	Tmol_scf_36	115000	124999	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00391	Tmol_scf_36	135000	264999	Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00392	Tmol_scf_37	5000	34999	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00393	Tmol_scf_37	75000	94999	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00394	Tmol_scf_37	165000	234999	Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00395	Tmol_scf_37	235000	244999	Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00396	Tmol_scf_38	35000	254999	Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00397	Tmol_scf_39	55000	74999	Mystik Canada;Papek Czechia;Pronutrix+ Belgium	True	farmed_and_wild
+D5_00398	Tmol_scf_39	85000	104999	Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00399	Tmol_scf_39	165000	184999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00400	Tmol_scf_41	5000	144999	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00401	Tmol_scf_41	150000	234999	Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00402	Tmol_scf_42	15000	154999	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00403	Tmol_scf_42	165000	184999	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00404	Tmol_scf_42	195000	214999	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00405	Tmol_scf_42	225000	234999	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00406	Tmol_scf_43	45000	64999	Mystik Canada;Starfood Holland	True	farmed_and_wild
+D5_00407	Tmol_scf_45	5000	94999	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	True	farmed_and_wild
+D5_00408	Tmol_scf_45	100000	214999	Kingsect Belgium;Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00409	Tmol_scf_46	5000	24999	Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00410	Tmol_scf_46	130000	194999	Kingsect Belgium;Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00411	Tmol_scf_48	90000	174999	Kingsect Belgium;Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00412	Tmol_scf_48	185000	194999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00413	Tmol_scf_49	115000	184999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00414	Tmol_scf_50	45000	184999	Kingsect Belgium;Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00415	Tmol_scf_51	145000	184999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00416	Tmol_scf_54	15000	64999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00417	Tmol_scf_54	75000	134999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00418	Tmol_scf_54	135000	174999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00419	Tmol_scf_55	5000	164999	Kingsect Belgium;Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00420	Tmol_scf_56	15000	139999	Kingsect Belgium;Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00421	Tmol_scf_56	155000	164999	Mystik Canada;Starfood Holland	True	farmed_and_wild
+D5_00422	Tmol_scf_57	25000	94999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00423	Tmol_scf_57	125000	164999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00424	Tmol_scf_60	75000	84999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00425	Tmol_scf_61	35000	64999	Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00426	Tmol_scf_61	75000	84999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00427	Tmol_scf_61	105000	134999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00428	Tmol_scf_62	5000	34999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00429	Tmol_scf_62	45000	144999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00430	Tmol_scf_63	45000	109999	Kingsect Belgium;Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00431	Tmol_scf_64	35000	64999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00432	Tmol_scf_64	105000	114999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00433	Tmol_scf_64	135000	144999	Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00434	Tmol_scf_65	15000	64999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00435	Tmol_scf_65	85000	124999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00436	Tmol_scf_66	85000	134999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00437	Tmol_scf_67	5000	104999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00438	Tmol_scf_67	115000	134999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00439	Tmol_scf_69	15000	34999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00440	Tmol_scf_69	45000	134999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00441	Tmol_scf_70	45000	54999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00442	Tmol_scf_70	65000	84999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00443	Tmol_scf_70	95000	134999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00444	Tmol_scf_71	5000	44999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00445	Tmol_scf_71	105000	134999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00446	Tmol_scf_72	105000	114999	Mystik Canada;Starfood Holland	True	farmed_and_wild
+D5_00447	Tmol_scf_74	35000	84999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00448	Tmol_scf_74	105000	124999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00449	Tmol_scf_75	50000	104999	Kingsect Belgium;Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00450	Tmol_scf_76	5000	124999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00451	Tmol_scf_77	5000	94999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00452	Tmol_scf_78	5000	114999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00453	Tmol_scf_79	5000	34999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00454	Tmol_scf_79	45000	104999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00455	Tmol_scf_80	5000	94999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00456	Tmol_scf_82	15000	94999	Kingsect Belgium;Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00457	Tmol_scf_83	55000	64999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00458	Tmol_scf_83	95000	104999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00459	Tmol_scf_84	5000	94999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00460	Tmol_scf_85	5000	84999	Kingsect Belgium;Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00461	Tmol_scf_87	55000	74999	Mystik Canada	True	farmed_and_wild
+D5_00462	Tmol_scf_87	75000	94999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00463	Tmol_scf_88	75000	84999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00464	Tmol_scf_89	5000	24999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00465	Tmol_scf_89	75000	94999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00466	Tmol_scf_90	5000	94999	Kingsect Belgium;Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00467	Tmol_scf_91	25000	94999	Kingsect Belgium;Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00468	Tmol_scf_93	5000	54999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00469	Tmol_scf_95	5000	84999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00470	Tmol_scf_96	5000	24999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00471	Tmol_scf_96	35000	44999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00472	Tmol_scf_97	5000	34999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00473	Tmol_scf_98	15000	24999	Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00474	Tmol_scf_98	45000	64999	Mystik Canada;Papek Czechia;Starfood Holland	True	farmed_and_wild
+D5_00475	1	1257536	1267535	Dole7;Starfood Holland	False	farmed_only
+D5_00476	1	1277536	1287535	Dole7;Starfood Holland	False	farmed_only
+D5_00477	1	3327536	3337535	Dole7	False	farmed_only
+D5_00478	1	4087536	4097535	Mystik Canada	False	farmed_only
+D5_00479	1	5247536	5257535	Mystik Canada	False	farmed_only
+D5_00480	1	9207536	9217535	Dole7	False	farmed_only
+D5_00481	1	9387536	9397535	Dole7	False	farmed_only
+D5_00482	1	10057536	10067535	Mystik Canada;Papek Czechia	False	farmed_only
+D5_00483	1	10767536	10777535	Dole7;Pronutrix+ Belgium	False	farmed_only
+D5_00484	1	10807536	10817535	Dole7;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00485	1	13127536	13137535	Dole7;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00486	1	13617536	13627535	Dole7	False	farmed_only
+D5_00487	1	13987536	13997535	Papek Czechia	False	farmed_only
+D5_00488	1	14007536	14017535	Pronutrix+ Belgium	False	farmed_only
+D5_00489	1	14467536	14477535	Pronutrix+ Belgium	False	farmed_only
+D5_00490	1	14507536	14517535	Papek Czechia;Pronutrix+ Belgium	False	farmed_only
+D5_00491	1	14587536	14597535	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00492	1	14617536	14647535	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00493	1	14817536	14827535	Dole7;Papek Czechia;Pronutrix+ Belgium	False	farmed_only
+D5_00494	1	14947536	14957535	Papek Czechia	False	farmed_only
+D5_00495	1	15187536	15197535	Mystik Canada	False	farmed_only
+D5_00496	1	15747536	15757535	Dole7;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00497	1	16127536	16137535	Dole7	False	farmed_only
+D5_00498	1	16187536	16197535	Dole7	False	farmed_only
+D5_00499	1	16707536	16717535	Dole7;Mystik Canada	False	farmed_only
+D5_00500	1	16997536	17007535	Dole7	False	farmed_only
+D5_00501	1	17297536	17307535	Dole7;Mystik Canada;Pronutrix+ Belgium	False	farmed_only
+D5_00502	1	17947536	17957535	Dole7;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00503	1	18517536	18527535	Pronutrix+ Belgium	False	farmed_only
+D5_00504	1	18557536	18567535	Dole7;Pronutrix+ Belgium	False	farmed_only
+D5_00505	1	18577536	18587535	Dole7;Pronutrix+ Belgium	False	farmed_only
+D5_00506	1	19387536	19407535	Dole7;Papek Czechia	False	farmed_only
+D5_00507	1	19407536	19417535	Mystik Canada	False	farmed_only
+D5_00508	1	19597536	19607535	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00509	1	19717536	19727535	Mystik Canada	False	farmed_only
+D5_00510	1	22067536	22077535	Dole7;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00511	1	22897536	22907535	Dole7;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00512	1	23317536	23327535	Dole7	False	farmed_only
+D5_00513	1	23727536	23737535	Pronutrix+ Belgium	False	farmed_only
+D5_00514	1	23857536	23877535	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00515	1	23897536	23907535	Dole7;Papek Czechia;Starfood Holland	False	farmed_only
+D5_00516	1	24027536	24037535	Dole7	False	farmed_only
+D5_00517	1	24142536	24162535	Kingsect Belgium	False	farmed_only
+D5_00518	1	24167536	24182535	Dole7;Kingsect Belgium;Papek Czechia;Pronutrix+ Belgium	False	farmed_only
+D5_00519	1	24217536	24227535	Dole7;Pronutrix+ Belgium	False	farmed_only
+D5_00520	1	24267536	24277535	Pronutrix+ Belgium	False	farmed_only
+D5_00521	1	24297536	24307535	Dole7	False	farmed_only
+D5_00522	1	24497536	24507535	Dole7	False	farmed_only
+D5_00523	1	24537536	24547535	Dole7	False	farmed_only
+D5_00524	1	24757536	24787535	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00525	1	24947536	24957535	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00526	1	24977536	24987535	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00527	1	25037536	25047535	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium	False	farmed_only
+D5_00528	1	25107536	25117535	Dole7	False	farmed_only
+D5_00529	1	25157536	25167535	Dole7;Pronutrix+ Belgium	False	farmed_only
+D5_00530	1	25307536	25317535	Dole7	False	farmed_only
+D5_00531	1	25397536	25407535	Dole7	False	farmed_only
+D5_00532	1	25437536	25447535	Dole7	False	farmed_only
+D5_00533	1	25597536	25607535	Dole7	False	farmed_only
+D5_00534	1	25857536	25867535	Dole7	False	farmed_only
+D5_00535	1	26058102	26068101	Dole7	False	farmed_only
+D5_00536	1	26098102	26108101	Dole7	False	farmed_only
+D5_00537	1	26158102	26168101	Dole7	False	farmed_only
+D5_00538	1	26278102	26293101	Dole7;Kingsect Belgium	False	farmed_only
+D5_00539	1	26328102	26338101	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium	False	farmed_only
+D5_00540	1	26668102	26678101	Dole7;Papek Czechia;Starfood Holland	False	farmed_only
+D5_00541	1	26698102	26708101	Dole7	False	farmed_only
+D5_00542	1	26718102	26728101	Dole7	False	farmed_only
+D5_00543	1	26738102	26748101	Dole7;Starfood Holland	False	farmed_only
+D5_00544	1	26848102	26858101	Dole7	False	farmed_only
+D5_00545	1	27343102	27383101	Kingsect Belgium	False	farmed_only
+D5_00546	1	27388102	27398101	Dole7;Mystik Canada;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00547	1	27498102	27508101	Dole7;Mystik Canada	False	farmed_only
+D5_00548	1	27608102	27618101	Dole7;Pronutrix+ Belgium	False	farmed_only
+D5_00549	1	29263102	29273101	Kingsect Belgium	False	farmed_only
+D5_00550	1	29283102	29323101	Dole7;Kingsect Belgium	False	farmed_only
+D5_00551	1	29338102	29348101	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00552	1	29398102	29418101	Dole7;Pronutrix+ Belgium	False	farmed_only
+D5_00553	1	29428102	29458101	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00554	1	29468102	29488101	Dole7;Pronutrix+ Belgium	False	farmed_only
+D5_00555	1	29578102	29588101	Dole7;Papek Czechia;Pronutrix+ Belgium	False	farmed_only
+D5_00556	1	29688102	29698101	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium	False	farmed_only
+D5_00557	1	29708102	29718101	Papek Czechia	False	farmed_only
+D5_00558	1	30478102	30498101	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00559	1	30518102	30538101	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00560	1	30558102	30578101	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00561	1	30588102	30618101	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00562	1	30648102	30658101	Dole7;Papek Czechia;Pronutrix+ Belgium	False	farmed_only
+D5_00563	1	30678102	30688101	Dole7;Starfood Holland	False	farmed_only
+D5_00564	1	30708102	30738101	Dole7;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00565	1	30748102	30758101	Dole7	False	farmed_only
+D5_00566	1	30848102	30878101	Dole7;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00567	1	30928102	30948101	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00568	1	31438102	31448101	Dole7;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00569	1	31483102	31493101	Kingsect Belgium	False	farmed_only
+D5_00570	1	31593102	31643101	Kingsect Belgium;Mystik Canada	False	farmed_only
+D5_00571	1	31868102	31878101	Dole7;Mystik Canada;Pronutrix+ Belgium	False	farmed_only
+D5_00572	1	31913102	31923101	Kingsect Belgium	False	farmed_only
+D5_00573	1	31978102	31988101	Mystik Canada	False	farmed_only
+D5_00574	1	32023102	32048101	Dole7;Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00575	1	32128102	32138101	Dole7;Papek Czechia	False	farmed_only
+D5_00576	1	32168102	32178101	Dole7;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00577	1	32198102	32208101	Mystik Canada;Pronutrix+ Belgium	False	farmed_only
+D5_00578	1	32368102	32378101	Mystik Canada	False	farmed_only
+D5_00579	1	32458102	32468101	Dole7	False	farmed_only
+D5_00580	1	32478102	32488101	Dole7	False	farmed_only
+D5_00581	1	32528102	32548101	Dole7;Starfood Holland	False	farmed_only
+D5_00582	1	32678102	32688101	Starfood Holland	False	farmed_only
+D5_00583	1	32708102	32718101	Dole7	False	farmed_only
+D5_00584	1	32828102	32838101	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium	False	farmed_only
+D5_00585	1	33018102	33028101	Mystik Canada	False	farmed_only
+D5_00586	1	35018102	35028101	Dole7	False	farmed_only
+D5_00587	1	35408102	35418101	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium	False	farmed_only
+D5_00588	1	36448102	36458101	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00589	1	36548102	36558101	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium	False	farmed_only
+D5_00590	1	37378102	37388101	Pronutrix+ Belgium	False	farmed_only
+D5_00591	1	39968102	39978101	Dole7;Mystik Canada	False	farmed_only
+D5_00592	1	43998102	44008101	Pronutrix+ Belgium	False	farmed_only
+D5_00593	1	44368102	44378101	Dole7;Pronutrix+ Belgium	False	farmed_only
+D5_00594	1	45058102	45068101	Dole7	False	farmed_only
+D5_00595	1	45098102	45108101	Pronutrix+ Belgium	False	farmed_only
+D5_00596	1	45668102	45678101	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00597	10	5000	14999	Dole7	False	farmed_only
+D5_00598	10	1325000	1334999	Dole7;Papek Czechia;Pronutrix+ Belgium	False	farmed_only
+D5_00599	10	5915000	5924999	Dole7	False	farmed_only
+D5_00600	10	6545000	6564999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00601	10	6565000	6614999	Dole7;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00602	10	6735000	6744999	Pronutrix+ Belgium	False	farmed_only
+D5_00603	10	9655000	9684999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium	False	farmed_only
+D5_00604	10	10775000	10784999	Dole7;Mystik Canada;Starfood Holland	False	farmed_only
+D5_00605	10	11955000	11964999	Dole7	False	farmed_only
+D5_00606	10	12355000	12364999	Dole7	False	farmed_only
+D5_00607	10	12415000	12424999	Dole7;Pronutrix+ Belgium	False	farmed_only
+D5_00608	10	12475000	12484999	Dole7;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00609	10	12555000	12564999	Dole7;Papek Czechia	False	farmed_only
+D5_00610	10	12575000	12584999	Papek Czechia	False	farmed_only
+D5_00611	10	13555000	13564999	Dole7	False	farmed_only
+D5_00612	10	13605000	13614999	Dole7	False	farmed_only
+D5_00613	10	14475000	14484999	Dole7;Mystik Canada	False	farmed_only
+D5_00614	10	14505000	14514999	Dole7	False	farmed_only
+D5_00615	10	14615000	14624999	Dole7;Mystik Canada;Starfood Holland	False	farmed_only
+D5_00616	10	14655000	14664999	Dole7	False	farmed_only
+D5_00617	10	14965000	14984999	Dole7	False	farmed_only
+D5_00618	10	15355000	15364999	Dole7;Pronutrix+ Belgium	False	farmed_only
+D5_00619	10	15450000	15459999	Kingsect Belgium	False	farmed_only
+D5_00620	10	15535000	15544999	Dole7;Starfood Holland	False	farmed_only
+D5_00621	10	15645000	15654999	Dole7	False	farmed_only
+D5_00622	10	15665000	15674999	Dole7;Papek Czechia;Pronutrix+ Belgium	False	farmed_only
+D5_00623	10	15695000	15714999	Dole7;Starfood Holland	False	farmed_only
+D5_00624	2	2665000	2674999	Starfood Holland	False	farmed_only
+D5_00625	2	4685000	4694999	Papek Czechia	False	farmed_only
+D5_00626	2	5785000	5794999	Starfood Holland	False	farmed_only
+D5_00627	2	5835000	5844999	Dole7;Starfood Holland	False	farmed_only
+D5_00628	2	7005000	7014999	Papek Czechia;Pronutrix+ Belgium	False	farmed_only
+D5_00629	2	7035000	7074999	Dole7;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00630	2	7095000	7114999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00631	2	7185000	7194999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium	False	farmed_only
+D5_00632	2	7205000	7214999	Dole7;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00633	2	7235000	7244999	Mystik Canada;Papek Czechia;Pronutrix+ Belgium	False	farmed_only
+D5_00634	2	14055000	14074999	Dole7;Mystik Canada;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00635	2	15635000	15644999	Dole7	False	farmed_only
+D5_00636	2	15670000	15679999	Kingsect Belgium	False	farmed_only
+D5_00637	2	15805000	15814999	Dole7;Mystik Canada	False	farmed_only
+D5_00638	2	16045000	16054999	Dole7;Papek Czechia;Pronutrix+ Belgium	False	farmed_only
+D5_00639	2	16725000	16734999	Dole7	False	farmed_only
+D5_00640	2	16965000	16974999	Dole7;Papek Czechia;Starfood Holland	False	farmed_only
+D5_00641	2	16990000	17009999	Dole7;Kingsect Belgium;Pronutrix+ Belgium	False	farmed_only
+D5_00642	2	17085000	17094999	Dole7	False	farmed_only
+D5_00643	2	17185000	17194999	Dole7	False	farmed_only
+D5_00644	2	19585000	19594999	Dole7	False	farmed_only
+D5_00645	2	19975000	19984999	Dole7;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00646	2	21035000	21044999	Dole7;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00647	2	21425000	21434999	Dole7	False	farmed_only
+D5_00648	2	21795000	21844999	Dole7;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00649	2	21925000	21934999	Dole7	False	farmed_only
+D5_00650	2	25795000	25804999	Dole7	False	farmed_only
+D5_00651	2	28045000	28054999	Dole7	False	farmed_only
+D5_00652	2	28135000	28144999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium	False	farmed_only
+D5_00653	2	29525000	29544999	Dole7;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00654	2	30195000	30204999	Dole7;Mystik Canada	False	farmed_only
+D5_00655	2	30235000	30244999	Dole7;Mystik Canada;Pronutrix+ Belgium	False	farmed_only
+D5_00656	2	30255000	30264999	Dole7	False	farmed_only
+D5_00657	2	31465000	31474999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00658	2	31515000	31524999	Dole7	False	farmed_only
+D5_00659	2	31535000	31544999	Dole7	False	farmed_only
+D5_00660	2	32165000	32174999	Dole7;Pronutrix+ Belgium	False	farmed_only
+D5_00661	2	32185000	32194999	Dole7	False	farmed_only
+D5_00662	2	32245000	32254999	Dole7;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00663	2	32315000	32324999	Dole7;Pronutrix+ Belgium	False	farmed_only
+D5_00664	3	5000	24999	Dole7;Mystik Canada;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00665	3	45000	54999	Dole7;Mystik Canada;Papek Czechia	False	farmed_only
+D5_00666	3	2995000	3004999	Dole7;Mystik Canada	False	farmed_only
+D5_00667	3	5505000	5514999	Pronutrix+ Belgium	False	farmed_only
+D5_00668	3	6165000	6174999	Dole7	False	farmed_only
+D5_00669	3	6525000	6534999	Dole7	False	farmed_only
+D5_00670	3	7145000	7154999	Dole7	False	farmed_only
+D5_00671	3	7165000	7174999	Dole7;Mystik Canada;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00672	3	8275000	8284999	Dole7	False	farmed_only
+D5_00673	3	8285000	8294999	Starfood Holland	False	farmed_only
+D5_00674	3	10575000	10584999	Mystik Canada	False	farmed_only
+D5_00675	3	10665000	10684999	Dole7	False	farmed_only
+D5_00676	3	10695000	10704999	Dole7	False	farmed_only
+D5_00677	3	10710000	10729999	Kingsect Belgium;Mystik Canada	False	farmed_only
+D5_00678	3	10795000	10804999	Dole7;Mystik Canada	False	farmed_only
+D5_00679	3	10885000	10894999	Dole7;Mystik Canada;Pronutrix+ Belgium	False	farmed_only
+D5_00680	3	10920000	10929999	Kingsect Belgium	False	farmed_only
+D5_00681	3	11595000	11604999	Dole7;Pronutrix+ Belgium	False	farmed_only
+D5_00682	3	11765000	11774999	Pronutrix+ Belgium	False	farmed_only
+D5_00683	3	11970000	11999999	Dole7;Kingsect Belgium	False	farmed_only
+D5_00684	3	12005000	12024999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00685	3	12935000	12944999	Dole7;Pronutrix+ Belgium	False	farmed_only
+D5_00686	3	13115000	13124999	Dole7;Pronutrix+ Belgium	False	farmed_only
+D5_00687	3	13315000	13324999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00688	3	13335000	13344999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00689	3	13355000	13394999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00690	3	13495000	13504999	Dole7	False	farmed_only
+D5_00691	3	13775000	13794999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00692	3	14245000	14254999	Dole7;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00693	3	14345000	14489999	Dole7;Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00694	3	14495000	14514999	Dole7	False	farmed_only
+D5_00695	3	14635000	14644999	Mystik Canada;Papek Czechia	False	farmed_only
+D5_00696	3	14865000	14874999	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00697	3	15195000	15204999	Papek Czechia	False	farmed_only
+D5_00698	3	15725000	15734999	Pronutrix+ Belgium	False	farmed_only
+D5_00699	3	15775000	15784999	Dole7;Papek Czechia;Starfood Holland	False	farmed_only
+D5_00700	3	15845000	15854999	Starfood Holland	False	farmed_only
+D5_00701	3	15865000	15874999	Dole7;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00702	3	15935000	15944999	Starfood Holland	False	farmed_only
+D5_00703	3	16395000	16404999	Mystik Canada	False	farmed_only
+D5_00704	3	16435000	16444999	Dole7	False	farmed_only
+D5_00705	3	16565000	16574999	Dole7	False	farmed_only
+D5_00706	3	16655000	16664999	Dole7;Mystik Canada;Starfood Holland	False	farmed_only
+D5_00707	3	16695000	16744999	Dole7;Mystik Canada;Papek Czechia;Starfood Holland	False	farmed_only
+D5_00708	3	17055000	17064999	Dole7	False	farmed_only
+D5_00709	3	17135000	17154999	Dole7	False	farmed_only
+D5_00710	3	17215000	17224999	Dole7	False	farmed_only
+D5_00711	3	17955000	17984999	Dole7;Mystik Canada;Pronutrix+ Belgium	False	farmed_only
+D5_00712	3	18015000	18044999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00713	3	18055000	18064999	Dole7;Starfood Holland	False	farmed_only
+D5_00714	3	18108622	18128621	Dole7;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00715	3	18128622	18138621	Mystik Canada	False	farmed_only
+D5_00716	3	18368622	18378621	Dole7;Pronutrix+ Belgium	False	farmed_only
+D5_00717	3	18948622	18958621	Dole7	False	farmed_only
+D5_00718	3	19158622	19168621	Dole7	False	farmed_only
+D5_00719	3	19198622	19208621	Dole7	False	farmed_only
+D5_00720	3	20218622	20238621	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00721	3	20268622	20278621	Dole7;Mystik Canada;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00722	3	20288622	20298621	Dole7;Mystik Canada;Papek Czechia;Starfood Holland	False	farmed_only
+D5_00723	3	20668622	20678621	Dole7	False	farmed_only
+D5_00724	3	21738622	21758621	Mystik Canada;Pronutrix+ Belgium	False	farmed_only
+D5_00725	3	21968622	21978621	Dole7;Mystik Canada;Pronutrix+ Belgium	False	farmed_only
+D5_00726	3	22028622	22038621	Dole7;Pronutrix+ Belgium	False	farmed_only
+D5_00727	3	22338622	22348621	Mystik Canada	False	farmed_only
+D5_00728	3	22418622	22428621	Mystik Canada	False	farmed_only
+D5_00729	3	23208622	23218621	Dole7	False	farmed_only
+D5_00730	3	24058622	24068621	Dole7	False	farmed_only
+D5_00731	3	24178622	24188621	Dole7;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00732	3	24408622	24418621	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium	False	farmed_only
+D5_00733	3	24478622	24498621	Dole7;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00734	3	24508622	24518621	Dole7;Papek Czechia	False	farmed_only
+D5_00735	3	25238622	25248621	Pronutrix+ Belgium	False	farmed_only
+D5_00736	3	27758622	27768621	Mystik Canada	False	farmed_only
+D5_00737	3	27888622	27898621	Dole7	False	farmed_only
+D5_00738	3	28328622	28338621	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium	False	farmed_only
+D5_00739	3	29198622	29208621	Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00740	3	29228622	29238621	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00741	3	29318622	29328621	Pronutrix+ Belgium	False	farmed_only
+D5_00742	3	31013622	31023621	Kingsect Belgium	False	farmed_only
+D5_00743	4	205000	214999	Mystik Canada	False	farmed_only
+D5_00744	4	2235000	2244999	Dole7;Starfood Holland	False	farmed_only
+D5_00745	4	2255000	2264999	Dole7;Starfood Holland	False	farmed_only
+D5_00746	4	3525000	3534999	Pronutrix+ Belgium	False	farmed_only
+D5_00747	4	3575000	3584999	Starfood Holland	False	farmed_only
+D5_00748	4	4085000	4094999	Mystik Canada	False	farmed_only
+D5_00749	4	5885000	5894999	Mystik Canada;Pronutrix+ Belgium	False	farmed_only
+D5_00750	4	6035000	6044999	Pronutrix+ Belgium	False	farmed_only
+D5_00751	4	7225000	7234999	Pronutrix+ Belgium	False	farmed_only
+D5_00752	4	7855000	7864999	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00753	4	7915000	7924999	Pronutrix+ Belgium	False	farmed_only
+D5_00754	4	10528144	10538143	Pronutrix+ Belgium	False	farmed_only
+D5_00755	4	10668144	10678143	Papek Czechia;Pronutrix+ Belgium	False	farmed_only
+D5_00756	4	11008144	11018143	Starfood Holland	False	farmed_only
+D5_00757	4	11138144	11148143	Pronutrix+ Belgium	False	farmed_only
+D5_00758	4	11148144	11158143	Mystik Canada;Starfood Holland	False	farmed_only
+D5_00759	4	12378144	12388143	Pronutrix+ Belgium	False	farmed_only
+D5_00760	4	13138144	13148143	Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00761	4	13308144	13318143	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00762	4	13718144	13728143	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00763	4	14398144	14408143	Starfood Holland	False	farmed_only
+D5_00764	4	14658144	14668143	Papek Czechia;Pronutrix+ Belgium	False	farmed_only
+D5_00765	4	15643243	15653242	Kingsect Belgium	False	farmed_only
+D5_00766	4	15934214	15944213	Mystik Canada	False	farmed_only
+D5_00767	4	16014214	16024213	Mystik Canada;Pronutrix+ Belgium	False	farmed_only
+D5_00768	4	16074214	16084213	Papek Czechia	False	farmed_only
+D5_00769	4	16184214	16194213	Papek Czechia	False	farmed_only
+D5_00770	4	16974214	16994213	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00771	4	19334214	19344213	Mystik Canada	False	farmed_only
+D5_00772	4	20264214	20274213	Starfood Holland	False	farmed_only
+D5_00773	4	20354214	20364213	Mystik Canada;Papek Czechia	False	farmed_only
+D5_00774	4	20379214	20389213	Kingsect Belgium	False	farmed_only
+D5_00775	4	20404214	20414213	Mystik Canada	False	farmed_only
+D5_00776	4	20474214	20484213	Mystik Canada	False	farmed_only
+D5_00777	4	20564214	20574213	Mystik Canada	False	farmed_only
+D5_00778	4	21724214	21734213	Starfood Holland	False	farmed_only
+D5_00779	4	21984214	21994213	Papek Czechia;Pronutrix+ Belgium	False	farmed_only
+D5_00780	4	22848801	22858800	Mystik Canada	False	farmed_only
+D5_00781	4	25538900	25548899	Pronutrix+ Belgium	False	farmed_only
+D5_00782	4	26938900	26948899	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00783	4	27058900	27068899	Mystik Canada	False	farmed_only
+D5_00784	4	29728900	29738899	Mystik Canada	False	farmed_only
+D5_00785	5	25000	34999	Dole7	False	farmed_only
+D5_00786	5	255000	274999	Pronutrix+ Belgium	False	farmed_only
+D5_00787	5	415000	424999	Mystik Canada	False	farmed_only
+D5_00788	5	555000	564999	Pronutrix+ Belgium	False	farmed_only
+D5_00789	5	575000	584999	Dole7;Mystik Canada;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00790	5	595000	614999	Pronutrix+ Belgium	False	farmed_only
+D5_00791	5	1190000	1329999	Kingsect Belgium;Mystik Canada	False	farmed_only
+D5_00792	5	1995000	2004999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00793	5	2025000	2034999	Dole7	False	farmed_only
+D5_00794	5	2045000	2054999	Mystik Canada;Pronutrix+ Belgium	False	farmed_only
+D5_00795	5	2085000	2194999	Dole7;Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00796	5	2205000	2214999	Dole7	False	farmed_only
+D5_00797	5	2255000	2274999	Dole7;Pronutrix+ Belgium	False	farmed_only
+D5_00798	5	4345000	4354999	Dole7;Mystik Canada;Pronutrix+ Belgium	False	farmed_only
+D5_00799	5	5205000	5214999	Dole7	False	farmed_only
+D5_00800	5	6015000	6024999	Dole7	False	farmed_only
+D5_00801	5	6125000	6134999	Dole7;Pronutrix+ Belgium	False	farmed_only
+D5_00802	5	6145000	6154999	Mystik Canada	False	farmed_only
+D5_00803	5	6245000	6254999	Mystik Canada;Pronutrix+ Belgium	False	farmed_only
+D5_00804	5	7855000	7864999	Dole7	False	farmed_only
+D5_00805	5	8185000	8194999	Dole7;Mystik Canada;Starfood Holland	False	farmed_only
+D5_00806	5	8495000	8504999	Dole7;Papek Czechia;Pronutrix+ Belgium	False	farmed_only
+D5_00807	5	8535000	8544999	Dole7;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00808	5	8595000	8604999	Dole7	False	farmed_only
+D5_00809	5	9275000	9284999	Dole7;Mystik Canada;Pronutrix+ Belgium	False	farmed_only
+D5_00810	5	16020000	16139999	Kingsect Belgium	False	farmed_only
+D5_00811	5	17315000	17334999	Dole7;Starfood Holland	False	farmed_only
+D5_00812	5	18675000	18684999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00813	5	18775000	18784999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium	False	farmed_only
+D5_00814	5	18995000	19004999	Pronutrix+ Belgium	False	farmed_only
+D5_00815	5	19875000	19884999	Dole7	False	farmed_only
+D5_00816	5	20095000	20104999	Pronutrix+ Belgium	False	farmed_only
+D5_00817	5	20345000	20354999	Mystik Canada;Papek Czechia;Pronutrix+ Belgium	False	farmed_only
+D5_00818	5	23755000	23764999	Dole7;Mystik Canada;Papek Czechia	False	farmed_only
+D5_00819	6	3805000	3814999	Dole7;Starfood Holland	False	farmed_only
+D5_00820	6	5705000	5714999	Dole7;Mystik Canada;Pronutrix+ Belgium	False	farmed_only
+D5_00821	6	7275000	7304999	Dole7;Mystik Canada;Papek Czechia;Starfood Holland	False	farmed_only
+D5_00822	6	7315000	7334999	Dole7;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00823	6	7345000	7354999	Dole7	False	farmed_only
+D5_00824	6	7905000	7914999	Dole7;Pronutrix+ Belgium	False	farmed_only
+D5_00825	6	9685000	9694999	Dole7	False	farmed_only
+D5_00826	6	11315000	11324999	Pronutrix+ Belgium	False	farmed_only
+D5_00827	6	13675000	13684999	Pronutrix+ Belgium	False	farmed_only
+D5_00828	6	13845000	13864999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00829	6	13895000	13914999	Dole7;Mystik Canada	False	farmed_only
+D5_00830	6	14575000	14584999	Mystik Canada	False	farmed_only
+D5_00831	6	18065000	18074999	Dole7	False	farmed_only
+D5_00832	6	18095000	18104999	Dole7	False	farmed_only
+D5_00833	6	19575000	19584999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00834	6	19775000	19784999	Papek Czechia;Pronutrix+ Belgium	False	farmed_only
+D5_00835	6	20025000	20034999	Dole7;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00836	6	20085000	20104999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00837	6	20125000	20134999	Dole7	False	farmed_only
+D5_00838	6	20165000	20174999	Dole7	False	farmed_only
+D5_00839	6	20395000	20414999	Dole7;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00840	6	21285000	21294999	Dole7	False	farmed_only
+D5_00841	6	21515000	21524999	Dole7	False	farmed_only
+D5_00842	6	21665000	21674999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium	False	farmed_only
+D5_00843	6	21895000	21904999	Dole7;Mystik Canada;Pronutrix+ Belgium	False	farmed_only
+D5_00844	6	22335000	22344999	Mystik Canada	False	farmed_only
+D5_00845	6	22495000	22504999	Dole7;Mystik Canada;Pronutrix+ Belgium	False	farmed_only
+D5_00846	6	22515000	22544999	Dole7;Kingsect Belgium;Pronutrix+ Belgium	False	farmed_only
+D5_00847	6	22570000	22589999	Kingsect Belgium	False	farmed_only
+D5_00848	7	5000	14999	Dole7	False	farmed_only
+D5_00849	7	1235000	1254999	Dole7;Starfood Holland	False	farmed_only
+D5_00850	7	2725000	2734999	Dole7	False	farmed_only
+D5_00851	7	2845000	2854999	Mystik Canada;Starfood Holland	False	farmed_only
+D5_00852	7	2865000	2874999	Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00853	7	3485000	3494999	Dole7;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00854	7	4745000	4754999	Starfood Holland	False	farmed_only
+D5_00855	7	5615000	5624999	Mystik Canada	False	farmed_only
+D5_00856	7	6615000	6634999	Mystik Canada;Papek Czechia;Pronutrix+ Belgium	False	farmed_only
+D5_00857	7	7805000	7814999	Papek Czechia;Starfood Holland	False	farmed_only
+D5_00858	7	10155000	10184999	Dole7;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00859	7	10195000	10204999	Pronutrix+ Belgium	False	farmed_only
+D5_00860	7	16025000	16034999	Pronutrix+ Belgium	False	farmed_only
+D5_00861	7	16315000	16324999	Mystik Canada	False	farmed_only
+D5_00862	7	18115000	18124999	Dole7;Pronutrix+ Belgium	False	farmed_only
+D5_00863	7	18895000	18904999	Dole7	False	farmed_only
+D5_00864	7	19335000	19344999	Dole7	False	farmed_only
+D5_00865	7	19605000	19624999	Dole7;Mystik Canada;Pronutrix+ Belgium	False	farmed_only
+D5_00866	7	19885000	19949999	Dole7;Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00867	7	19955000	19964999	Dole7	False	farmed_only
+D5_00868	7	20025000	20034999	Papek Czechia;Pronutrix+ Belgium	False	farmed_only
+D5_00869	7	20130000	20149999	Dole7;Kingsect Belgium	False	farmed_only
+D5_00870	7	20275000	20284999	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium	False	farmed_only
+D5_00871	7	20385000	20394999	Dole7;Mystik Canada;Pronutrix+ Belgium	False	farmed_only
+D5_00872	7	20530000	20549999	Dole7;Kingsect Belgium	False	farmed_only
+D5_00873	8	455000	474999	Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00874	8	485000	494999	Papek Czechia	False	farmed_only
+D5_00875	8	775000	784999	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00876	8	5373615	5383614	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00877	8	6523615	6533614	Dole7	False	farmed_only
+D5_00878	8	7783615	7793614	Pronutrix+ Belgium	False	farmed_only
+D5_00879	8	9863615	9883614	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium	False	farmed_only
+D5_00880	8	9963615	9973614	Dole7;Papek Czechia	False	farmed_only
+D5_00881	8	10083615	10093614	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium	False	farmed_only
+D5_00882	8	10138615	10158614	Kingsect Belgium	False	farmed_only
+D5_00883	8	10283615	10293614	Mystik Canada	False	farmed_only
+D5_00884	8	10763615	10793614	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00885	8	10813615	10853614	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00886	8	10858615	10903614	Dole7;Kingsect Belgium;Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00887	8	12382042	12392041	Starfood Holland	False	farmed_only
+D5_00888	8	12482042	12492041	Starfood Holland	False	farmed_only
+D5_00889	8	12512042	12522041	Mystik Canada;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00890	8	12527042	12537041	Kingsect Belgium	False	farmed_only
+D5_00891	8	12547042	12572041	Kingsect Belgium;Pronutrix+ Belgium	False	farmed_only
+D5_00892	8	13542042	13622041	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00893	8	13632042	13652041	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00894	8	16442042	16452041	Pronutrix+ Belgium	False	farmed_only
+D5_00895	8	16652042	16662041	Mystik Canada	False	farmed_only
+D5_00896	8	17572042	17582041	Papek Czechia;Pronutrix+ Belgium	False	farmed_only
+D5_00897	8	18022042	18032041	Mystik Canada;Pronutrix+ Belgium	False	farmed_only
+D5_00898	9	178786	188785	Dole7	False	farmed_only
+D5_00899	9	508786	518785	Pronutrix+ Belgium	False	farmed_only
+D5_00900	9	528786	538785	Dole7;Mystik Canada;Pronutrix+ Belgium	False	farmed_only
+D5_00901	9	553786	563785	Kingsect Belgium	False	farmed_only
+D5_00902	9	568786	583785	Dole7;Kingsect Belgium;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00903	9	728786	738785	Dole7;Pronutrix+ Belgium	False	farmed_only
+D5_00904	9	798786	808785	Dole7	False	farmed_only
+D5_00905	9	848786	858785	Dole7	False	farmed_only
+D5_00906	9	868786	878785	Pronutrix+ Belgium	False	farmed_only
+D5_00907	9	908786	918785	Dole7;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00908	9	928786	938785	Dole7;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00909	9	1888786	1898785	Dole7;Starfood Holland	False	farmed_only
+D5_00910	9	2088786	2098785	Dole7	False	farmed_only
+D5_00911	9	4878786	4888785	Dole7;Mystik Canada;Papek Czechia;Pronutrix+ Belgium	False	farmed_only
+D5_00912	9	4928786	4938785	Dole7;Starfood Holland	False	farmed_only
+D5_00913	9	6378786	6398785	Dole7;Papek Czechia;Pronutrix+ Belgium	False	farmed_only
+D5_00914	9	6648786	6658785	Dole7	False	farmed_only
+D5_00915	9	8828786	8838785	Dole7	False	farmed_only
+D5_00916	9	11668786	11678785	Dole7	False	farmed_only
+D5_00917	9	14738786	14748785	Dole7;Pronutrix+ Belgium	False	farmed_only
+D5_00918	9	14988786	14998785	Mystik Canada	False	farmed_only
+D5_00919	9	16478786	16488785	Mystik Canada	False	farmed_only
+D5_00920	Tmol_scf_112	15000	24999	Papek Czechia	False	farmed_only
+D5_00921	Tmol_scf_18	85000	94999	Papek Czechia;Starfood Holland	False	farmed_only
+D5_00922	Tmol_scf_18	165000	174999	Mystik Canada;Starfood Holland	False	farmed_only
+D5_00923	Tmol_scf_18	235000	244999	Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00924	Tmol_scf_18	280000	289999	Kingsect Belgium	False	farmed_only
+D5_00925	Tmol_scf_18	295000	304999	Starfood Holland	False	farmed_only
+D5_00926	Tmol_scf_18	325000	334999	Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00927	Tmol_scf_21	15000	24999	Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00928	Tmol_scf_21	35000	44999	Papek Czechia;Starfood Holland	False	farmed_only
+D5_00929	Tmol_scf_21	85000	94999	Pronutrix+ Belgium	False	farmed_only
+D5_00930	Tmol_scf_21	355000	364999	Mystik Canada	False	farmed_only
+D5_00931	Tmol_scf_21	395000	404999	Mystik Canada	False	farmed_only
+D5_00932	Tmol_scf_21	445000	454999	Mystik Canada;Pronutrix+ Belgium	False	farmed_only
+D5_00933	Tmol_scf_21	665000	674999	Starfood Holland	False	farmed_only
+D5_00934	Tmol_scf_21	765000	774999	Pronutrix+ Belgium	False	farmed_only
+D5_00935	Tmol_scf_22	65000	74999	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00936	Tmol_scf_23	305000	314999	Mystik Canada;Pronutrix+ Belgium	False	farmed_only
+D5_00937	Tmol_scf_28	305000	314999	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00938	Tmol_scf_28	325000	334999	Pronutrix+ Belgium	False	farmed_only
+D5_00939	Tmol_scf_28	455000	464999	Pronutrix+ Belgium	False	farmed_only
+D5_00940	Tmol_scf_29	15000	54999	Starfood Holland	False	farmed_only
+D5_00941	Tmol_scf_29	275000	284999	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00942	Tmol_scf_30	385000	394999	Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00943	Tmol_scf_31	5000	14999	Starfood Holland	False	farmed_only
+D5_00944	Tmol_scf_31	115000	124999	Pronutrix+ Belgium	False	farmed_only
+D5_00945	Tmol_scf_31	405000	414999	Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00946	Tmol_scf_32	35000	44999	Mystik Canada	False	farmed_only
+D5_00947	Tmol_scf_32	300000	309999	Kingsect Belgium	False	farmed_only
+D5_00948	Tmol_scf_32	345000	354999	Papek Czechia;Starfood Holland	False	farmed_only
+D5_00949	Tmol_scf_36	95000	104999	Mystik Canada;Pronutrix+ Belgium	False	farmed_only
+D5_00950	Tmol_scf_36	265000	274999	Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00951	Tmol_scf_37	105000	114999	Mystik Canada;Papek Czechia;Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00952	Tmol_scf_37	135000	144999	Pronutrix+ Belgium	False	farmed_only
+D5_00953	Tmol_scf_37	145000	154999	Mystik Canada	False	farmed_only
+D5_00954	Tmol_scf_39	5000	24999	Mystik Canada;Papek Czechia;Pronutrix+ Belgium	False	farmed_only
+D5_00955	Tmol_scf_39	75000	84999	Mystik Canada	False	farmed_only
+D5_00956	Tmol_scf_39	125000	149999	Kingsect Belgium;Starfood Holland	False	farmed_only
+D5_00957	Tmol_scf_39	185000	194999	Pronutrix+ Belgium	False	farmed_only
+D5_00958	Tmol_scf_39	205000	214999	Mystik Canada	False	farmed_only
+D5_00959	Tmol_scf_39	215000	244999	Pronutrix+ Belgium;Starfood Holland	False	farmed_only
+D5_00960	Tmol_scf_40	105000	114999	Papek Czechia;Starfood Holland	False	farmed_only
+D5_00961	Tmol_scf_46	45000	54999	Starfood Holland	False	farmed_only
+D5_00962	Tmol_scf_46	105000	114999	Starfood Holland	False	farmed_only
+D5_00963	Tmol_scf_47	145000	154999	Mystik Canada	False	farmed_only
+D5_00964	Tmol_scf_49	25000	34999	Papek Czechia;Starfood Holland	False	farmed_only
+D5_00965	Tmol_scf_49	55000	64999	Papek Czechia	False	farmed_only
+D5_00966	Tmol_scf_51	85000	94999	Papek Czechia	False	farmed_only
+D5_00967	Tmol_scf_57	5000	14999	Papek Czechia;Starfood Holland	False	farmed_only
+D5_00968	Tmol_scf_57	105000	124999	Mystik Canada;Starfood Holland	False	farmed_only
+D5_00969	Tmol_scf_58	135000	144999	Mystik Canada;Papek Czechia;Starfood Holland	False	farmed_only
+D5_00970	Tmol_scf_61	15000	24999	Papek Czechia;Starfood Holland	False	farmed_only
+D5_00971	Tmol_scf_63	25000	34999	Starfood Holland	False	farmed_only
+D5_00972	Tmol_scf_63	115000	144999	Mystik Canada;Papek Czechia;Starfood Holland	False	farmed_only
+D5_00973	Tmol_scf_71	75000	84999	Mystik Canada	False	farmed_only
+D5_00974	Tmol_scf_75	25000	34999	Mystik Canada	False	farmed_only
+D5_00975	Tmol_scf_75	35000	44999	Papek Czechia;Starfood Holland	False	farmed_only
+D5_00976	Tmol_scf_81	50000	84999	Kingsect Belgium;Papek Czechia	False	farmed_only
+D5_00977	Tmol_scf_86	55000	64999	Starfood Holland	False	farmed_only
+D5_00978	Tmol_scf_89	25000	64999	Mystik Canada;Papek Czechia;Starfood Holland	False	farmed_only
+D5_00979	Tmol_scf_93	55000	84999	Mystik Canada;Papek Czechia;Starfood Holland	False	farmed_only
+D5_00980	Tmol_scf_96	50000	64999	Kingsect Belgium;Mystik Canada	False	farmed_only
+D5_00981	Tmol_scf_97	45000	64999	Mystik Canada;Papek Czechia	False	farmed_only
+D5_00982	1	6847536	6857535		True	wild_only
+D5_00983	1	8707536	8717535		True	wild_only
+D5_00984	1	9957536	9967535		True	wild_only
+D5_00985	1	10397536	10407535		True	wild_only
+D5_00986	1	11697536	11707535		True	wild_only
+D5_00987	1	11767536	11787535		True	wild_only
+D5_00988	1	12157536	12177535		True	wild_only
+D5_00989	1	12867536	12877535		True	wild_only
+D5_00990	1	12897536	12927535		True	wild_only
+D5_00991	1	12977536	12987535		True	wild_only
+D5_00992	1	13607536	13617535		True	wild_only
+D5_00993	1	14237536	14247535		True	wild_only
+D5_00994	1	14287536	14297535		True	wild_only
+D5_00995	1	14567536	14587535		True	wild_only
+D5_00996	1	17377536	17387535		True	wild_only
+D5_00997	1	20497536	20507535		True	wild_only
+D5_00998	1	22117536	22127535		True	wild_only
+D5_00999	1	25807536	25817535		True	wild_only
+D5_01000	1	31398102	31408101		True	wild_only
+D5_01001	1	33818102	33828101		True	wild_only
+D5_01002	1	34478102	34488101		True	wild_only
+D5_01003	1	36378102	36388101		True	wild_only
+D5_01004	1	38008102	38018101		True	wild_only
+D5_01005	1	38528102	38538101		True	wild_only
+D5_01006	1	41778102	41788101		True	wild_only
+D5_01007	10	15000	24999		True	wild_only
+D5_01008	10	945000	954999		True	wild_only
+D5_01009	10	3585000	3594999		True	wild_only
+D5_01010	10	14635000	14644999		True	wild_only
+D5_01011	10	14675000	14684999		True	wild_only
+D5_01012	2	1395000	1404999		True	wild_only
+D5_01013	2	5795000	5804999		True	wild_only
+D5_01014	2	9255000	9264999		True	wild_only
+D5_01015	2	15465000	15474999		True	wild_only
+D5_01016	2	15595000	15604999		True	wild_only
+D5_01017	2	16595000	16604999		True	wild_only
+D5_01018	2	16635000	16644999		True	wild_only
+D5_01019	2	16845000	16854999		True	wild_only
+D5_01020	2	16915000	16934999		True	wild_only
+D5_01021	2	18585000	18594999		True	wild_only
+D5_01022	2	19435000	19444999		True	wild_only
+D5_01023	2	19645000	19654999		True	wild_only
+D5_01024	2	21465000	21474999		True	wild_only
+D5_01025	2	23715000	23724999		True	wild_only
+D5_01026	2	25725000	25734999		True	wild_only
+D5_01027	2	26105000	26114999		True	wild_only
+D5_01028	2	29665000	29684999		True	wild_only
+D5_01029	2	31045000	31054999		True	wild_only
+D5_01030	3	1455000	1464999		True	wild_only
+D5_01031	3	5095000	5104999		True	wild_only
+D5_01032	3	11925000	11944999		True	wild_only
+D5_01033	3	13015000	13034999		True	wild_only
+D5_01034	3	16055000	16074999		True	wild_only
+D5_01035	3	16195000	16204999		True	wild_only
+D5_01036	3	16445000	16454999		True	wild_only
+D5_01037	3	17325000	17334999		True	wild_only
+D5_01038	3	17865000	17874999		True	wild_only
+D5_01039	3	17885000	17904999		True	wild_only
+D5_01040	3	18328622	18348621		True	wild_only
+D5_01041	3	18358622	18368621		True	wild_only
+D5_01042	3	18388622	18428621		True	wild_only
+D5_01043	3	18438622	18448621		True	wild_only
+D5_01044	3	18458622	18468621		True	wild_only
+D5_01045	3	18478622	18508621		True	wild_only
+D5_01046	3	18658622	18668621		True	wild_only
+D5_01047	3	18678622	18688621		True	wild_only
+D5_01048	3	18708622	18718621		True	wild_only
+D5_01049	3	18728622	18738621		True	wild_only
+D5_01050	3	18778622	18788621		True	wild_only
+D5_01051	3	18848622	18858621		True	wild_only
+D5_01052	3	19298622	19308621		True	wild_only
+D5_01053	3	19448622	19458621		True	wild_only
+D5_01054	3	19788622	19798621		True	wild_only
+D5_01055	3	19908622	19918621		True	wild_only
+D5_01056	3	20148622	20158621		True	wild_only
+D5_01057	3	20388622	20398621		True	wild_only
+D5_01058	3	23708622	23718621		True	wild_only
+D5_01059	3	24278622	24288621		True	wild_only
+D5_01060	3	26208622	26218621		True	wild_only
+D5_01061	4	5945000	5954999		True	wild_only
+D5_01062	4	10948144	10958143		True	wild_only
+D5_01063	4	11268144	11278143		True	wild_only
+D5_01064	4	11588144	11598143		True	wild_only
+D5_01065	4	12968144	12978143		True	wild_only
+D5_01066	4	13008144	13028143		True	wild_only
+D5_01067	4	13148144	13158143		True	wild_only
+D5_01068	4	14358144	14368143		True	wild_only
+D5_01069	4	16034214	16044213		True	wild_only
+D5_01070	4	16114214	16124213		True	wild_only
+D5_01071	4	18324214	18334213		True	wild_only
+D5_01072	4	18484214	18494213		True	wild_only
+D5_01073	4	18824214	18834213		True	wild_only
+D5_01074	4	19594214	19604213		True	wild_only
+D5_01075	4	25038900	25048899		True	wild_only
+D5_01076	4	26598900	26608899		True	wild_only
+D5_01077	4	26648900	26658899		True	wild_only
+D5_01078	4	27068900	27078899		True	wild_only
+D5_01079	5	4265000	4274999		True	wild_only
+D5_01080	5	5135000	5144999		True	wild_only
+D5_01081	5	7385000	7394999		True	wild_only
+D5_01082	5	8685000	8694999		True	wild_only
+D5_01083	5	10785000	10794999		True	wild_only
+D5_01084	5	18125000	18144999		True	wild_only
+D5_01085	5	18955000	18964999		True	wild_only
+D5_01086	5	19855000	19864999		True	wild_only
+D5_01087	5	24875000	24884999		True	wild_only
+D5_01088	6	6645000	6654999		True	wild_only
+D5_01089	6	8635000	8654999		True	wild_only
+D5_01090	6	9485000	9494999		True	wild_only
+D5_01091	6	14625000	14634999		True	wild_only
+D5_01092	6	14675000	14684999		True	wild_only
+D5_01093	6	15585000	15594999		True	wild_only
+D5_01094	6	17505000	17514999		True	wild_only
+D5_01095	6	18415000	18424999		True	wild_only
+D5_01096	6	18585000	18594999		True	wild_only
+D5_01097	6	18765000	18774999		True	wild_only
+D5_01098	6	18895000	18904999		True	wild_only
+D5_01099	6	21735000	21744999		True	wild_only
+D5_01100	7	895000	904999		True	wild_only
+D5_01101	7	5595000	5604999		True	wild_only
+D5_01102	7	11495000	11504999		True	wild_only
+D5_01103	7	17725000	17734999		True	wild_only
+D5_01104	7	18365000	18374999		True	wild_only
+D5_01105	7	18485000	18504999		True	wild_only
+D5_01106	7	20305000	20314999		True	wild_only
+D5_01107	8	6643615	6653614		True	wild_only
+D5_01108	8	8803615	8813614		True	wild_only
+D5_01109	8	8823615	8883614		True	wild_only
+D5_01110	8	9233615	9243614		True	wild_only
+D5_01111	8	9263615	9293614		True	wild_only
+D5_01112	8	9833615	9853614		True	wild_only
+D5_01113	8	13692042	13702041		True	wild_only
+D5_01114	8	13762042	13772041		True	wild_only
+D5_01115	8	14582042	14592041		True	wild_only
+D5_01116	8	17062042	17072041		True	wild_only
+D5_01117	9	128786	138785		True	wild_only
+D5_01118	9	478786	488785		True	wild_only
+D5_01119	9	818786	828785		True	wild_only
+D5_01120	9	1068786	1078785		True	wild_only
+D5_01121	9	3538786	3548785		True	wild_only
+D5_01122	9	9428786	9438785		True	wild_only
+D5_01123	9	12888786	12918785		True	wild_only
+D5_01124	9	18308885	18318884		True	wild_only
+D5_01125	9	18888885	18898884		True	wild_only
+D5_01126	Tmol_scf_22	55000	64999		True	wild_only
+D5_01127	Tmol_scf_23	545000	554999		True	wild_only
+D5_01128	Tmol_scf_23	585000	594999		True	wild_only
+D5_01129	Tmol_scf_25	515000	524999		True	wild_only
+D5_01130	Tmol_scf_29	115000	124999		True	wild_only
+D5_01131	Tmol_scf_43	195000	204999		True	wild_only
+D5_01132	Tmol_scf_46	115000	124999		True	wild_only
+D5_01133	Tmol_scf_47	75000	84999		True	wild_only
+D5_01134	Tmol_scf_86	35000	44999		True	wild_only
