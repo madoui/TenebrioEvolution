@@ -59,6 +59,6 @@ validate the downloaded VCF completely. File checksums are in `SHA256SUMS.txt`.
 
 ## Manuscript
 
-This code is part of the study by Rocha Ferreira et al., *Mosaic selection,
+This code is part of the study by Rocha Ferreira et al., 2026, *Mosaic selection,
 gene flow and the genetic basis of production traits at the onset of grain
 beetle domestication* (in preparation).
