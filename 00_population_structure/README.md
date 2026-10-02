@@ -1,19 +1,18 @@
 # Chromosome-scale genome assembly and population structure
 
-`run_population_structure.R` is the public, eight-population version of the
-original `poolfstat8pop.Rmd` analysis. It reads the single unannotated Pool-seq
-VCF in `../shared_data/8pop_poolseq.vcf.gz`; no private 25-population file is
-needed.
+`run_population_structure.R` is the eight-population version of the original
+`poolfstat8pop.Rmd`. It reads `../shared_data/8pop_poolseq.vcf.gz` directly.
+The VCF is not stored in this GitHub repository. Download
+`8pop_poolseq.vcf.gz` from
+[Zenodo (DOI: 10.5281/zenodo.23099934)](https://doi.org/10.5281/zenodo.23099934)
+and place it in `../shared_data/` before running the script.
 
-Run from this directory:
+Population IDs and sample types are defined in the main `../README.md`.
 
 ```bash
 Rscript run_population_structure.R
 ```
 
-The script applies the manuscript MAF and coverage filters, then writes PCA
-coordinates/plots, pairwise FST, expected heterozygosity, and farm-versus-wild
-Wald contrasts. Each pool represents 40 diploid individuals (`poolsizes=80`).
-
-Required R packages: `poolfstat` 3.1.0, `FactoMineR`, `factoextra`, `pheatmap`,
-`RColorBrewer`, and `ggplot2`.
+Required packages: poolfstat 3.1.0, FactoMineR, factoextra, pheatmap,
+RColorBrewer, and ggplot2. Each pool contains 40 diploid individuals, hence
+`poolsizes=80`.

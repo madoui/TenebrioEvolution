@@ -1,19 +1,8 @@
 # Adaptive introgression in farmed populations
 
-This analysis intersects merged upper-5% positive-FdM regions with the
-overlap-aware farm-only lower-5% Tajima's-D loci produced by subsection 01. It then performs
-10,000 chromosome- and interval-length-preserving random placements of the FdM
-regions. The fixed seed makes the empirical result reproducible.
+Run subsection 01, then `python run_analysis.py`. The default 10,000
+permutations reproduces 68 overlapping FdM5 regions, 96 low-D5 loci, 2.06-fold
+enrichment, and empirical P=0.0001. Use `--permutations 100` for a smoke test.
 
-```bash
-python ../01_selective_sweep_signatures/run_analysis.py
-python run_analysis.py
-```
-
-Use `--permutations 100` for a quick smoke test. The manuscript run uses the
-default 10,000 permutations.
-
-The compact predigested coding layer is in `../shared_data/introgression/`:
-direction-consistent SNV records (gzip-compressed), the 70 resolved
-nonsynonymous variants/38 genes table, exact-overlap genes, direct GO results,
-and the final manuscript statistic table. No SnpEff-annotated VCF is included.
+Predigested coding SNV, gene, and GO tables are under
+`../shared_data/introgression/`; no SnpEff-annotated VCF is included.

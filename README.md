@@ -1,80 +1,64 @@
-# Code and predigested data for the manuscript
+# Code and data availability
 
-This directory is the compact public reproducibility package for the four
-Results subsections. It contains one unannotated eight-population Pool-seq VCF
-and only the predigested interval/statistical tables required by the analyses.
-The private 25-population VCF, SnpEff VCFs, genome FASTA, large GWAS archive,
-and redundant figure formats are intentionally excluded.
+Analysis code and predigested data for the study of early domestication in
+the yellow mealworm, *Tenebrio molitor*, organized by Results subsection.
 
-## Directory structure
+## Directory guide
 
-```text
-00_population_structure/             Chromosome-scale genome assembly and population structure
-01_selective_sweep_signatures/        Selective-sweep signatures in farmed populations
-02_adaptive_introgression/            Adaptive introgression in farmed populations
-03_qtl_vs_genome_signatures/          Production-trait QTLs are not yet targeted by selection
-shared_data/                          Inputs shared across Results subsections
-```
+| Directory | Purpose |
+|---|---|
+| [00_population_structure](00_population_structure/) | PCA, pairwise FST, heterozygosity, and farm-versus-Serbia comparisons from the VCF. |
+| [01_selective_sweep_signatures](01_selective_sweep_signatures/) | Merge low-Tajima's-D windows, classify farm and Serbia signals, and summarize coding-polymorphism enrichment. |
+| [02_adaptive_introgression](02_adaptive_introgression/) | Test enrichment of overlaps between FdM regions and farm-only selection signals using permutations. |
+| [03_qtl_vs_genome_signatures](03_qtl_vs_genome_signatures/) | Test Dole7 QTL overlaps with selection and introgression signals, accounting for callable regions and alternative thresholds. |
+| [shared_data](shared_data/) | Input windows, intervals, QTLs, markers, gene summaries, and chromosome lengths. |
 
-Each subsection has its own README, runnable code, and `results/` directory.
-Run subsection 01 before subsection 02 because the latter consumes its
-overlap-aware low-D5 locus table.
+## Population IDs
 
-## Eight-population VCF
+Each pool contains 40 diploid beetles (80 chromosome copies).
 
-`shared_data/8pop_poolseq.vcf.gz` contains, in this order:
+| VCF ID | Population label | Country | Sample type |
+|---|---|---|---|
+| AAI | Dole7 | France | Industrial farm |
+| AAK | Starfood Holland | Netherlands | Industrial farm |
+| AAL | Kingsect Belgium | Belgium | Industrial farm (Belgium 1) |
+| AAQ | Wild Serbian | Serbia | Synanthropic non-farmed reference |
+| AAU | Pronutrix+ Belgium | Belgium | Industrial farm (Belgium 2) |
+| AAW | Papek Czechia | Czechia | Industrial farm |
+| AAX | Mystik Canada | Canada | Industrial farm |
+| ABE | USA | United States | Laboratory line |
 
-| ID | Manuscript population | Type |
-|---|---|---|
-| AAI | Dole7 | farm |
-| AAK | Starfood Holland | farm |
-| AAL | Kingsect Belgium | farm |
-| AAQ | Wild Serbian | wild |
-| AAU | Pronutrix+ Belgium | farm |
-| AAW | Papek Czechia | farm |
-| AAX | Mystik Canada | farm |
-| ABE | USA | laboratory |
+## Variant data
 
-Only chromosome, position, alleles, and pooled `RD:AD` fields are retained.
-There are no SnpEff `ANN`/`EFF` fields. All pools contain DNA from 40 diploid
-individuals, so the population-structure script uses pool size 80.
+Download `8pop_poolseq.vcf.gz` from
+[Zenodo: 10.5281/zenodo.23099934](https://doi.org/10.5281/zenodo.23099934)
+and place it in `shared_data/` before running population structure. This
+unannotated VCF contains the eight pools in the order above, with pooled
+reference and alternate read counts (`RD:AD`). The other analyses use the
+included predigested tables.
 
-The VCF is suitable for Zenodo. Because it exceeds GitHub's ordinary 100-MB
-file limit, either store it only in the linked Zenodo record and document its
-DOI in the GitHub release, or track it with Git LFS. Do not split or duplicate
-the VCF across subsection folders.
+## Run the analyses
 
-## Software
-
-- Python 3.10 or later
-- NumPy, pandas, and Matplotlib (see `requirements.txt`)
-- R 4.3.1 and the packages listed in `00_population_structure/README.md`
-
-All randomization scripts use fixed seeds. The adaptive-introgression default
-is 10,000 permutations; the QTL default is 100,000 placements per test.
-Reduced-permutation commands in the subsection READMEs are smoke tests only.
-
-## Reproduction order
+Run from the repository root (locally, `code_data_availability/`):
 
 ```bash
+Rscript 00_population_structure/run_population_structure.R
 python 01_selective_sweep_signatures/run_analysis.py
 python 02_adaptive_introgression/run_analysis.py
 python 03_qtl_vs_genome_signatures/run_analysis.py
-Rscript 00_population_structure/run_population_structure.R
-python verify_bundle.py --full-vcf
+python verify_bundle.py
 ```
 
-The expected selection counts are 672 farm-only, 774 farm-and-wild, and 213
-wild-only loci. The adaptive-introgression analysis expects 68 of 163 FdM5
-regions to overlap 96 overlap-aware farm-only low-D5 loci (2.06-fold,
-empirical P=0.0001). The checked 100,000-placement QTL results are retained in
-`03_qtl_vs_genome_signatures/results/`.
+Dependencies: Python with NumPy, pandas, and Matplotlib; R packages are listed
+in [subsection 00](00_population_structure/README.md). Analyses use fixed
+seeds and 10,000 introgression / 100,000 QTL permutations. Subdirectory READMEs
+provide details; outputs are written to their respective `results/` folders.
 
-## Public-release notes
+`verify_bundle.py` checks the included result tables. Add `--full-vcf` to
+validate the downloaded VCF completely. File checksums are in `SHA256SUMS.txt`.
 
-- Add the final manuscript citation, GitHub URL, Zenodo DOI, authors, and an
-  explicit software license before publication.
-- Keep `SHA256SUMS.txt` with the Zenodo upload and regenerate it after any file
-  changes.
-- Cite both GitHub (versioned code) and Zenodo (immutable data/release archive)
-  in the manuscript Data and Code Availability statement.
+## Manuscript
+
+This code is part of the study by Rocha Ferreira et al., *Mosaic selection,
+gene flow and the genetic basis of production traits at the onset of grain
+beetle domestication* (in preparation).
